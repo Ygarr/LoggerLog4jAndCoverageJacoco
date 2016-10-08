@@ -12,12 +12,12 @@ import java.util.MissingResourceException;
 /**
  * Класс для генерации сообщений-приветствий.
  * Промежуточные данные при работе методов класса
- * записываются в лог-файл messenger.log,
+ * записываются в лог-файл loggerLog4jAndCoverageJacoco.log,
  * который создается в корневой папке проекта.
  */
-public class Messenger {
+public class LoggerLog4jAndCoverageJacoco {
 
-    private static Logger logger = LogManager.getLogger(Messenger.class);
+    private static Logger logger = LogManager.getLogger(LoggerLog4jAndCoverageJacoco.class);
 
     public static void main(String[] args) {
         printCurrentTimeMessage();
@@ -62,7 +62,7 @@ public class Messenger {
             logger.debug("Connection failed!");
             logger.debug("!!!" + ex.getClass().getName());
             logger.debug("!!!" + ex.getMessage());
-            message = "Can't connect to message resource. Read messenger.log.";
+            message = "Can't connect to message resource. Read LoggerLog4jAndCoverageJacoco.log.";
         }
         logger.debug("Returned message: " + message + " Теперь проверь логи");
         logger.debug("----getMessage()________________end----\n\r");

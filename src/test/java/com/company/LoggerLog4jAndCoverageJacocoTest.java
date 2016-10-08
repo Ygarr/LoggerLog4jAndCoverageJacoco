@@ -2,17 +2,17 @@ package com.company;
 
 import org.junit.Assert;
 import org.junit.Test;
-import com.company.Messenger;
+import com.company.LoggerLog4jAndCoverageJacoco;
 
 import java.util.Locale;
 
 /**
  * Класс содержит юнит-тесты для метода getMessage(int hour, Locale locale) класса Messenger.
  */
-public class MessengerTest {
+public class LoggerLog4jAndCoverageJacocoTest {
 
     private void getMessageTestRu(int hourOfDay) {
-        String message = Messenger.getMessage(hourOfDay, new Locale("ru"));
+        String message = LoggerLog4jAndCoverageJacoco.getMessage(hourOfDay, new Locale("ru"));
         if (hourOfDay >= 6 && hourOfDay < 9) Assert.assertEquals("Доброе утро, Мир!", message);
         if (hourOfDay >= 9 && hourOfDay < 19) Assert.assertEquals("Добрый день, Мир!", message);
         if (hourOfDay >= 19 && hourOfDay < 23) Assert.assertEquals("Добрый вечер, Мир!", message);
@@ -20,7 +20,7 @@ public class MessengerTest {
     }
 
     private void getMessageTestNotRu(int hourOfDay, Locale notRussianLocale) {
-        String message = Messenger.getMessage(hourOfDay, notRussianLocale);
+        String message = LoggerLog4jAndCoverageJacoco.getMessage(hourOfDay, notRussianLocale);
         if (hourOfDay >= 6 && hourOfDay < 9) Assert.assertEquals("Good morning, World!", message);
         if (hourOfDay >= 9 && hourOfDay < 19) Assert.assertEquals("Good day, World!", message);
         if (hourOfDay >= 19 && hourOfDay < 23) Assert.assertEquals("Good evening, World!", message);
