@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head><meta http-equiv="Content-Type" content="text/html;charset=UTF-8"/><link rel="stylesheet" href="../.resources/report.css" type="text/css"/><link rel="shortcut icon" href="../.resources/report.gif" type="image/gif"/><title>Messenger.java</title><link rel="stylesheet" href="../.resources/prettify.css" type="text/css"/><script type="text/javascript" src="../.resources/prettify.js"></script></head><body onload="window['PR_TAB_WIDTH']=4;prettyPrint()"><div class="breadcrumb" id="breadcrumb"><span class="info"><a href="../.sessions.html" class="el_session">Sessions</a></span><a href="../index.html" class="el_report">LoggerLog4jAndCoverageJacoco</a> &gt; <a href="index.source.html" class="el_package">com.company</a> &gt; <span class="el_source">Messenger.java</span></div><h1>Messenger.java</h1><pre class="source lang-java linenums">package com.company;
+
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
+
+import java.util.Locale;
+import java.util.ResourceBundle;
+import java.util.Calendar;
+import java.util.GregorianCalendar;
+import java.util.MissingResourceException;
+
+/**
+ * Класс для генерации сообщений-приветствий.
+ * Промежуточные данные при работе методов класса
+ * записываются в лог-файл messenger.log,
+ * который создается в корневой папке проекта.
+ */
+<span class="nc" id="L18">public class Messenger {</span>
+<span class="fc" id="L19">    private static Logger logger = LogManager.getLogger(Messenger.class);</span>
+
+    /**
+     * Метод выдающий сообщение, которое зависит от переданных методу
+     * значения часа (в формате от 0 до 23) и локали.
+     * Если язык локали - русский, то сообщения
+     * выдаются на русском, иначе - на английском.
+     */
+    public static String getMessage(int hour, Locale locale) {
+<span class="fc" id="L28">        logger.debug(&quot;---getMessage() method begin---&quot;);</span>
+
+<span class="fc" id="L30">        logger.debug(&quot;Got current hour: &quot; + hour);</span>
+<span class="fc" id="L31">        String timeOfDay = defineTimeOfDay(hour);</span>
+<span class="fc" id="L32">        logger.debug(&quot;Current time of day: &quot; + timeOfDay);</span>
+
+<span class="fc" id="L34">        logger.debug(&quot;Got user's locale: &quot; + locale);</span>
+<span class="fc bfc" id="L35" title="All 4 branches covered.">        locale = locale == null || !&quot;ru&quot;.equals(locale.getLanguage()) ? Locale.ENGLISH : locale;</span>
+<span class="fc" id="L36">        logger.debug(&quot;Locale after validation: &quot; + locale);</span>
+
+        String message;
+        try {
+<span class="fc" id="L40">            logger.debug(&quot;Connecting to message resource...&quot;);</span>
+<span class="fc" id="L41">            ResourceBundle bundle = ResourceBundle.getBundle(&quot;Messages&quot;, locale);</span>
+<span class="fc" id="L42">            message = bundle.getString(timeOfDay);</span>
+<span class="fc" id="L43">            logger.debug(&quot;Connection succeeded!&quot;);</span>
+<span class="nc" id="L44">        } catch (MissingResourceException ex){</span>
+<span class="nc" id="L45">            logger.debug(&quot;Connection failed!&quot;);</span>
+<span class="nc" id="L46">            logger.debug(&quot;!!!&quot; + ex.getClass().getName());</span>
+<span class="nc" id="L47">            logger.debug(&quot;!!!&quot; + ex.getMessage());</span>
+<span class="nc" id="L48">            message = &quot;Can't connect to message resource. Read messenger.log.&quot;;</span>
+<span class="fc" id="L49">        }</span>
+<span class="fc" id="L50">        logger.debug(&quot;Returned message: &quot; + message);</span>
+<span class="fc" id="L51">        logger.debug(&quot;----getMessage() method end----\n\r&quot;);</span>
+
+<span class="fc" id="L53">        return message;</span>
+    }
+
+    /**
+     * Метод определяет время суток по переданному значению
+     * часа (в формате от 0 до 23).
+     */
+    private static String defineTimeOfDay(int hour) {
+<span class="fc" id="L61">        logger.debug(&quot;--defineTimeOfDay() method begin--&quot;);</span>
+<span class="fc" id="L62">        String timeOfDay = &quot;&quot;;</span>
+<span class="fc bfc" id="L63" title="All 4 branches covered.">        if (hour &gt;= 6 &amp;&amp; hour &lt; 9) timeOfDay = &quot;morning&quot;;</span>
+<span class="fc bfc" id="L64" title="All 4 branches covered.">        if (hour &gt;= 9 &amp;&amp; hour &lt; 19) timeOfDay = &quot;day&quot;;</span>
+<span class="fc bfc" id="L65" title="All 4 branches covered.">        if (hour &gt;= 19 &amp;&amp; hour &lt; 23) timeOfDay = &quot;evening&quot;;</span>
+<span class="fc bfc" id="L66" title="All 4 branches covered.">        if (hour &gt;= 23 || hour &lt; 6) timeOfDay = &quot;night&quot;;</span>
+<span class="fc" id="L67">        logger.debug(&quot;---defineTimeOfDay() method end---&quot;);</span>
+<span class="fc" id="L68">        return timeOfDay;</span>
+    }
+
+    /**
+     * Метод выводит в консоль сообщение-приветствие,
+     * соответсвующее текущему времени суток и локали пользователя.
+     * Если язык локали - русский, то сообщения
+     * выводятся на русском, иначе - на английском.
+     */
+    public static void printCurrentTimeMessage() {
+<span class="nc" id="L78">        int currentHour = new GregorianCalendar().get(Calendar.HOUR_OF_DAY);</span>
+<span class="nc" id="L79">        Locale userLocale = Locale.getDefault();</span>
+<span class="nc" id="L80">        System.out.println(getMessage(currentHour, userLocale));</span>
+<span class="nc" id="L81">    }</span>
+
+    public static void main(String[] args) {
+<span class="nc" id="L84">        printCurrentTimeMessage();</span>
+<span class="nc" id="L85">    }</span>
+}
+</pre><div class="footer"><span class="right">Created with <a href="http://www.eclemma.org/jacoco">JaCoCo</a> 0.7.5.201505241946</span></div></body></html>

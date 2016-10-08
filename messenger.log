@@ -1,0 +1,1488 @@
+2016-10-08T11:48:03,365 [DEBUG] (Messenger.java:28) - ---getMessage() method begin---
+2016-10-08T11:48:03,367 [DEBUG] (Messenger.java:30) - Got current hour: -1000
+2016-10-08T11:48:03,367 [DEBUG] (Messenger.java:61) - --defineTimeOfDay() method begin--
+2016-10-08T11:48:03,367 [DEBUG] (Messenger.java:67) - ---defineTimeOfDay() method end---
+2016-10-08T11:48:03,367 [DEBUG] (Messenger.java:32) - Current time of day: night
+2016-10-08T11:48:03,368 [DEBUG] (Messenger.java:34) - Got user's locale: null
+2016-10-08T11:48:03,368 [DEBUG] (Messenger.java:36) - Locale after validation: en
+2016-10-08T11:48:03,368 [DEBUG] (Messenger.java:40) - Connecting to message resource...
+2016-10-08T11:48:03,370 [DEBUG] (Messenger.java:43) - Connection succeeded!
+2016-10-08T11:48:03,370 [DEBUG] (Messenger.java:50) - Returned message: Good night, World!
+2016-10-08T11:48:03,370 [DEBUG] (Messenger.java:51) - ----getMessage() method end----
+
+2016-10-08T11:48:03,374 [DEBUG] (Messenger.java:28) - ---getMessage() method begin---
+2016-10-08T11:48:03,375 [DEBUG] (Messenger.java:30) - Got current hour: 13
+2016-10-08T11:48:03,375 [DEBUG] (Messenger.java:61) - --defineTimeOfDay() method begin--
+2016-10-08T11:48:03,375 [DEBUG] (Messenger.java:67) - ---defineTimeOfDay() method end---
+2016-10-08T11:48:03,375 [DEBUG] (Messenger.java:32) - Current time of day: day
+2016-10-08T11:48:03,375 [DEBUG] (Messenger.java:34) - Got user's locale: en
+2016-10-08T11:48:03,376 [DEBUG] (Messenger.java:36) - Locale after validation: en
+2016-10-08T11:48:03,376 [DEBUG] (Messenger.java:40) - Connecting to message resource...
+2016-10-08T11:48:03,376 [DEBUG] (Messenger.java:43) - Connection succeeded!
+2016-10-08T11:48:03,376 [DEBUG] (Messenger.java:50) - Returned message: Good day, World!
+2016-10-08T11:48:03,377 [DEBUG] (Messenger.java:51) - ----getMessage() method end----
+
+2016-10-08T11:48:03,378 [DEBUG] (Messenger.java:28) - ---getMessage() method begin---
+2016-10-08T11:48:03,378 [DEBUG] (Messenger.java:30) - Got current hour: 17
+2016-10-08T11:48:03,378 [DEBUG] (Messenger.java:61) - --defineTimeOfDay() method begin--
+2016-10-08T11:48:03,378 [DEBUG] (Messenger.java:67) - ---defineTimeOfDay() method end---
+2016-10-08T11:48:03,379 [DEBUG] (Messenger.java:32) - Current time of day: day
+2016-10-08T11:48:03,379 [DEBUG] (Messenger.java:34) - Got user's locale: en
+2016-10-08T11:48:03,379 [DEBUG] (Messenger.java:36) - Locale after validation: en
+2016-10-08T11:48:03,379 [DEBUG] (Messenger.java:40) - Connecting to message resource...
+2016-10-08T11:48:03,379 [DEBUG] (Messenger.java:43) - Connection succeeded!
+2016-10-08T11:48:03,380 [DEBUG] (Messenger.java:50) - Returned message: Good day, World!
+2016-10-08T11:48:03,380 [DEBUG] (Messenger.java:51) - ----getMessage() method end----
+
+2016-10-08T11:48:03,382 [DEBUG] (Messenger.java:28) - ---getMessage() method begin---
+2016-10-08T11:48:03,382 [DEBUG] (Messenger.java:30) - Got current hour: 19
+2016-10-08T11:48:03,383 [DEBUG] (Messenger.java:61) - --defineTimeOfDay() method begin--
+2016-10-08T11:48:03,383 [DEBUG] (Messenger.java:67) - ---defineTimeOfDay() method end---
+2016-10-08T11:48:03,383 [DEBUG] (Messenger.java:32) - Current time of day: evening
+2016-10-08T11:48:03,384 [DEBUG] (Messenger.java:34) - Got user's locale: en
+2016-10-08T11:48:03,384 [DEBUG] (Messenger.java:36) - Locale after validation: en
+2016-10-08T11:48:03,384 [DEBUG] (Messenger.java:40) - Connecting to message resource...
+2016-10-08T11:48:03,384 [DEBUG] (Messenger.java:43) - Connection succeeded!
+2016-10-08T11:48:03,384 [DEBUG] (Messenger.java:50) - Returned message: Good evening, World!
+2016-10-08T11:48:03,385 [DEBUG] (Messenger.java:51) - ----getMessage() method end----
+
+2016-10-08T11:48:03,385 [DEBUG] (Messenger.java:28) - ---getMessage() method begin---
+2016-10-08T11:48:03,385 [DEBUG] (Messenger.java:30) - Got current hour: 23
+2016-10-08T11:48:03,386 [DEBUG] (Messenger.java:61) - --defineTimeOfDay() method begin--
+2016-10-08T11:48:03,386 [DEBUG] (Messenger.java:67) - ---defineTimeOfDay() method end---
+2016-10-08T11:48:03,386 [DEBUG] (Messenger.java:32) - Current time of day: night
+2016-10-08T11:48:03,386 [DEBUG] (Messenger.java:34) - Got user's locale: en
+2016-10-08T11:48:03,386 [DEBUG] (Messenger.java:36) - Locale after validation: en
+2016-10-08T11:48:03,388 [DEBUG] (Messenger.java:40) - Connecting to message resource...
+2016-10-08T11:48:03,388 [DEBUG] (Messenger.java:43) - Connection succeeded!
+2016-10-08T11:48:03,388 [DEBUG] (Messenger.java:50) - Returned message: Good night, World!
+2016-10-08T11:48:03,389 [DEBUG] (Messenger.java:51) - ----getMessage() method end----
+
+2016-10-08T11:48:03,390 [DEBUG] (Messenger.java:28) - ---getMessage() method begin---
+2016-10-08T11:48:03,390 [DEBUG] (Messenger.java:30) - Got current hour: 19
+2016-10-08T11:48:03,390 [DEBUG] (Messenger.java:61) - --defineTimeOfDay() method begin--
+2016-10-08T11:48:03,390 [DEBUG] (Messenger.java:67) - ---defineTimeOfDay() method end---
+2016-10-08T11:48:03,390 [DEBUG] (Messenger.java:32) - Current time of day: evening
+2016-10-08T11:48:03,391 [DEBUG] (Messenger.java:34) - Got user's locale: fr
+2016-10-08T11:48:03,391 [DEBUG] (Messenger.java:36) - Locale after validation: en
+2016-10-08T11:48:03,391 [DEBUG] (Messenger.java:40) - Connecting to message resource...
+2016-10-08T11:48:03,391 [DEBUG] (Messenger.java:43) - Connection succeeded!
+2016-10-08T11:48:03,391 [DEBUG] (Messenger.java:50) - Returned message: Good evening, World!
+2016-10-08T11:48:03,391 [DEBUG] (Messenger.java:51) - ----getMessage() method end----
+
+2016-10-08T11:48:03,392 [DEBUG] (Messenger.java:28) - ---getMessage() method begin---
+2016-10-08T11:48:03,393 [DEBUG] (Messenger.java:30) - Got current hour: 19
+2016-10-08T11:48:03,393 [DEBUG] (Messenger.java:61) - --defineTimeOfDay() method begin--
+2016-10-08T11:48:03,393 [DEBUG] (Messenger.java:67) - ---defineTimeOfDay() method end---
+2016-10-08T11:48:03,393 [DEBUG] (Messenger.java:32) - Current time of day: evening
+2016-10-08T11:48:03,393 [DEBUG] (Messenger.java:34) - Got user's locale: de
+2016-10-08T11:48:03,394 [DEBUG] (Messenger.java:36) - Locale after validation: en
+2016-10-08T11:48:03,394 [DEBUG] (Messenger.java:40) - Connecting to message resource...
+2016-10-08T11:48:03,394 [DEBUG] (Messenger.java:43) - Connection succeeded!
+2016-10-08T11:48:03,394 [DEBUG] (Messenger.java:50) - Returned message: Good evening, World!
+2016-10-08T11:48:03,394 [DEBUG] (Messenger.java:51) - ----getMessage() method end----
+
+2016-10-08T11:48:03,395 [DEBUG] (Messenger.java:28) - ---getMessage() method begin---
+2016-10-08T11:48:03,395 [DEBUG] (Messenger.java:30) - Got current hour: 12
+2016-10-08T11:48:03,396 [DEBUG] (Messenger.java:61) - --defineTimeOfDay() method begin--
+2016-10-08T11:48:03,396 [DEBUG] (Messenger.java:67) - ---defineTimeOfDay() method end---
+2016-10-08T11:48:03,396 [DEBUG] (Messenger.java:32) - Current time of day: day
+2016-10-08T11:48:03,396 [DEBUG] (Messenger.java:34) - Got user's locale: ru
+2016-10-08T11:48:03,396 [DEBUG] (Messenger.java:36) - Locale after validation: ru
+2016-10-08T11:48:03,397 [DEBUG] (Messenger.java:40) - Connecting to message resource...
+2016-10-08T11:48:03,397 [DEBUG] (Messenger.java:43) - Connection succeeded!
+2016-10-08T11:48:03,398 [DEBUG] (Messenger.java:50) - Returned message: Добрый день, Мир!
+2016-10-08T11:48:03,398 [DEBUG] (Messenger.java:51) - ----getMessage() method end----
+
+2016-10-08T11:48:03,399 [DEBUG] (Messenger.java:28) - ---getMessage() method begin---
+2016-10-08T11:48:03,399 [DEBUG] (Messenger.java:30) - Got current hour: 18
+2016-10-08T11:48:03,399 [DEBUG] (Messenger.java:61) - --defineTimeOfDay() method begin--
+2016-10-08T11:48:03,399 [DEBUG] (Messenger.java:67) - ---defineTimeOfDay() method end---
+2016-10-08T11:48:03,400 [DEBUG] (Messenger.java:32) - Current time of day: day
+2016-10-08T11:48:03,400 [DEBUG] (Messenger.java:34) - Got user's locale: ru
+2016-10-08T11:48:03,400 [DEBUG] (Messenger.java:36) - Locale after validation: ru
+2016-10-08T11:48:03,400 [DEBUG] (Messenger.java:40) - Connecting to message resource...
+2016-10-08T11:48:03,400 [DEBUG] (Messenger.java:43) - Connection succeeded!
+2016-10-08T11:48:03,401 [DEBUG] (Messenger.java:50) - Returned message: Добрый день, Мир!
+2016-10-08T11:48:03,401 [DEBUG] (Messenger.java:51) - ----getMessage() method end----
+
+2016-10-08T11:48:03,402 [DEBUG] (Messenger.java:28) - ---getMessage() method begin---
+2016-10-08T11:48:03,402 [DEBUG] (Messenger.java:30) - Got current hour: 19
+2016-10-08T11:48:03,402 [DEBUG] (Messenger.java:61) - --defineTimeOfDay() method begin--
+2016-10-08T11:48:03,403 [DEBUG] (Messenger.java:67) - ---defineTimeOfDay() method end---
+2016-10-08T11:48:03,403 [DEBUG] (Messenger.java:32) - Current time of day: evening
+2016-10-08T11:48:03,403 [DEBUG] (Messenger.java:34) - Got user's locale: ru
+2016-10-08T11:48:03,403 [DEBUG] (Messenger.java:36) - Locale after validation: ru
+2016-10-08T11:48:03,403 [DEBUG] (Messenger.java:40) - Connecting to message resource...
+2016-10-08T11:48:03,404 [DEBUG] (Messenger.java:43) - Connection succeeded!
+2016-10-08T11:48:03,404 [DEBUG] (Messenger.java:50) - Returned message: Добрый вечер, Мир!
+2016-10-08T11:48:03,404 [DEBUG] (Messenger.java:51) - ----getMessage() method end----
+
+2016-10-08T11:48:03,405 [DEBUG] (Messenger.java:28) - ---getMessage() method begin---
+2016-10-08T11:48:03,405 [DEBUG] (Messenger.java:30) - Got current hour: 21
+2016-10-08T11:48:03,405 [DEBUG] (Messenger.java:61) - --defineTimeOfDay() method begin--
+2016-10-08T11:48:03,406 [DEBUG] (Messenger.java:67) - ---defineTimeOfDay() method end---
+2016-10-08T11:48:03,406 [DEBUG] (Messenger.java:32) - Current time of day: evening
+2016-10-08T11:48:03,406 [DEBUG] (Messenger.java:34) - Got user's locale: ru
+2016-10-08T11:48:03,406 [DEBUG] (Messenger.java:36) - Locale after validation: ru
+2016-10-08T11:48:03,406 [DEBUG] (Messenger.java:40) - Connecting to message resource...
+2016-10-08T11:48:03,406 [DEBUG] (Messenger.java:43) - Connection succeeded!
+2016-10-08T11:48:03,407 [DEBUG] (Messenger.java:50) - Returned message: Добрый вечер, Мир!
+2016-10-08T11:48:03,407 [DEBUG] (Messenger.java:51) - ----getMessage() method end----
+
+2016-10-08T11:48:03,408 [DEBUG] (Messenger.java:28) - ---getMessage() method begin---
+2016-10-08T11:48:03,408 [DEBUG] (Messenger.java:30) - Got current hour: 0
+2016-10-08T11:48:03,408 [DEBUG] (Messenger.java:61) - --defineTimeOfDay() method begin--
+2016-10-08T11:48:03,408 [DEBUG] (Messenger.java:67) - ---defineTimeOfDay() method end---
+2016-10-08T11:48:03,409 [DEBUG] (Messenger.java:32) - Current time of day: night
+2016-10-08T11:48:03,409 [DEBUG] (Messenger.java:34) - Got user's locale: ru
+2016-10-08T11:48:03,409 [DEBUG] (Messenger.java:36) - Locale after validation: ru
+2016-10-08T11:48:03,409 [DEBUG] (Messenger.java:40) - Connecting to message resource...
+2016-10-08T11:48:03,409 [DEBUG] (Messenger.java:43) - Connection succeeded!
+2016-10-08T11:48:03,410 [DEBUG] (Messenger.java:50) - Returned message: Спокойной ночи, Мир!
+2016-10-08T11:48:03,410 [DEBUG] (Messenger.java:51) - ----getMessage() method end----
+
+2016-10-08T11:48:03,411 [DEBUG] (Messenger.java:28) - ---getMessage() method begin---
+2016-10-08T11:48:03,411 [DEBUG] (Messenger.java:30) - Got current hour: 0
+2016-10-08T11:48:03,411 [DEBUG] (Messenger.java:61) - --defineTimeOfDay() method begin--
+2016-10-08T11:48:03,411 [DEBUG] (Messenger.java:67) - ---defineTimeOfDay() method end---
+2016-10-08T11:48:03,411 [DEBUG] (Messenger.java:32) - Current time of day: night
+2016-10-08T11:48:03,411 [DEBUG] (Messenger.java:34) - Got user's locale: en
+2016-10-08T11:48:03,412 [DEBUG] (Messenger.java:36) - Locale after validation: en
+2016-10-08T11:48:03,412 [DEBUG] (Messenger.java:40) - Connecting to message resource...
+2016-10-08T11:48:03,412 [DEBUG] (Messenger.java:43) - Connection succeeded!
+2016-10-08T11:48:03,412 [DEBUG] (Messenger.java:50) - Returned message: Good night, World!
+2016-10-08T11:48:03,412 [DEBUG] (Messenger.java:51) - ----getMessage() method end----
+
+2016-10-08T11:48:03,413 [DEBUG] (Messenger.java:28) - ---getMessage() method begin---
+2016-10-08T11:48:03,413 [DEBUG] (Messenger.java:30) - Got current hour: 4
+2016-10-08T11:48:03,414 [DEBUG] (Messenger.java:61) - --defineTimeOfDay() method begin--
+2016-10-08T11:48:03,414 [DEBUG] (Messenger.java:67) - ---defineTimeOfDay() method end---
+2016-10-08T11:48:03,414 [DEBUG] (Messenger.java:32) - Current time of day: night
+2016-10-08T11:48:03,414 [DEBUG] (Messenger.java:34) - Got user's locale: en
+2016-10-08T11:48:03,414 [DEBUG] (Messenger.java:36) - Locale after validation: en
+2016-10-08T11:48:03,414 [DEBUG] (Messenger.java:40) - Connecting to message resource...
+2016-10-08T11:48:03,414 [DEBUG] (Messenger.java:43) - Connection succeeded!
+2016-10-08T11:48:03,415 [DEBUG] (Messenger.java:50) - Returned message: Good night, World!
+2016-10-08T11:48:03,415 [DEBUG] (Messenger.java:51) - ----getMessage() method end----
+
+2016-10-08T11:48:03,417 [DEBUG] (Messenger.java:28) - ---getMessage() method begin---
+2016-10-08T11:48:03,417 [DEBUG] (Messenger.java:30) - Got current hour: 6
+2016-10-08T11:48:03,417 [DEBUG] (Messenger.java:61) - --defineTimeOfDay() method begin--
+2016-10-08T11:48:03,418 [DEBUG] (Messenger.java:67) - ---defineTimeOfDay() method end---
+2016-10-08T11:48:03,418 [DEBUG] (Messenger.java:32) - Current time of day: morning
+2016-10-08T11:48:03,418 [DEBUG] (Messenger.java:34) - Got user's locale: en
+2016-10-08T11:48:03,418 [DEBUG] (Messenger.java:36) - Locale after validation: en
+2016-10-08T11:48:03,419 [DEBUG] (Messenger.java:40) - Connecting to message resource...
+2016-10-08T11:48:03,419 [DEBUG] (Messenger.java:43) - Connection succeeded!
+2016-10-08T11:48:03,419 [DEBUG] (Messenger.java:50) - Returned message: Good morning, World!
+2016-10-08T11:48:03,419 [DEBUG] (Messenger.java:51) - ----getMessage() method end----
+
+2016-10-08T11:48:03,421 [DEBUG] (Messenger.java:28) - ---getMessage() method begin---
+2016-10-08T11:48:03,421 [DEBUG] (Messenger.java:30) - Got current hour: 9
+2016-10-08T11:48:03,421 [DEBUG] (Messenger.java:61) - --defineTimeOfDay() method begin--
+2016-10-08T11:48:03,422 [DEBUG] (Messenger.java:67) - ---defineTimeOfDay() method end---
+2016-10-08T11:48:03,422 [DEBUG] (Messenger.java:32) - Current time of day: day
+2016-10-08T11:48:03,423 [DEBUG] (Messenger.java:34) - Got user's locale: en
+2016-10-08T11:48:03,423 [DEBUG] (Messenger.java:36) - Locale after validation: en
+2016-10-08T11:48:03,423 [DEBUG] (Messenger.java:40) - Connecting to message resource...
+2016-10-08T11:48:03,424 [DEBUG] (Messenger.java:43) - Connection succeeded!
+2016-10-08T11:48:03,424 [DEBUG] (Messenger.java:50) - Returned message: Good day, World!
+2016-10-08T11:48:03,424 [DEBUG] (Messenger.java:51) - ----getMessage() method end----
+
+2016-10-08T11:48:03,425 [DEBUG] (Messenger.java:28) - ---getMessage() method begin---
+2016-10-08T11:48:03,426 [DEBUG] (Messenger.java:30) - Got current hour: 8
+2016-10-08T11:48:03,426 [DEBUG] (Messenger.java:61) - --defineTimeOfDay() method begin--
+2016-10-08T11:48:03,426 [DEBUG] (Messenger.java:67) - ---defineTimeOfDay() method end---
+2016-10-08T11:48:03,426 [DEBUG] (Messenger.java:32) - Current time of day: morning
+2016-10-08T11:48:03,426 [DEBUG] (Messenger.java:34) - Got user's locale: fr
+2016-10-08T11:48:03,427 [DEBUG] (Messenger.java:36) - Locale after validation: en
+2016-10-08T11:48:03,427 [DEBUG] (Messenger.java:40) - Connecting to message resource...
+2016-10-08T11:48:03,427 [DEBUG] (Messenger.java:43) - Connection succeeded!
+2016-10-08T11:48:03,428 [DEBUG] (Messenger.java:50) - Returned message: Good morning, World!
+2016-10-08T11:48:03,428 [DEBUG] (Messenger.java:51) - ----getMessage() method end----
+
+2016-10-08T11:48:03,431 [DEBUG] (Messenger.java:28) - ---getMessage() method begin---
+2016-10-08T11:48:03,431 [DEBUG] (Messenger.java:30) - Got current hour: 0
+2016-10-08T11:48:03,431 [DEBUG] (Messenger.java:61) - --defineTimeOfDay() method begin--
+2016-10-08T11:48:03,431 [DEBUG] (Messenger.java:67) - ---defineTimeOfDay() method end---
+2016-10-08T11:48:03,432 [DEBUG] (Messenger.java:32) - Current time of day: night
+2016-10-08T11:48:03,432 [DEBUG] (Messenger.java:34) - Got user's locale: de
+2016-10-08T11:48:03,432 [DEBUG] (Messenger.java:36) - Locale after validation: en
+2016-10-08T11:48:03,432 [DEBUG] (Messenger.java:40) - Connecting to message resource...
+2016-10-08T11:48:03,432 [DEBUG] (Messenger.java:43) - Connection succeeded!
+2016-10-08T11:48:03,432 [DEBUG] (Messenger.java:50) - Returned message: Good night, World!
+2016-10-08T11:48:03,433 [DEBUG] (Messenger.java:51) - ----getMessage() method end----
+
+2016-10-08T11:48:03,433 [DEBUG] (Messenger.java:28) - ---getMessage() method begin---
+2016-10-08T11:48:03,434 [DEBUG] (Messenger.java:30) - Got current hour: 0
+2016-10-08T11:48:03,434 [DEBUG] (Messenger.java:61) - --defineTimeOfDay() method begin--
+2016-10-08T11:48:03,434 [DEBUG] (Messenger.java:67) - ---defineTimeOfDay() method end---
+2016-10-08T11:48:03,434 [DEBUG] (Messenger.java:32) - Current time of day: night
+2016-10-08T11:48:03,434 [DEBUG] (Messenger.java:34) - Got user's locale: de
+2016-10-08T11:48:03,434 [DEBUG] (Messenger.java:36) - Locale after validation: en
+2016-10-08T11:48:03,434 [DEBUG] (Messenger.java:40) - Connecting to message resource...
+2016-10-08T11:48:03,435 [DEBUG] (Messenger.java:43) - Connection succeeded!
+2016-10-08T11:48:03,435 [DEBUG] (Messenger.java:50) - Returned message: Good night, World!
+2016-10-08T11:48:03,435 [DEBUG] (Messenger.java:51) - ----getMessage() method end----
+
+2016-10-08T11:48:03,436 [DEBUG] (Messenger.java:28) - ---getMessage() method begin---
+2016-10-08T11:48:03,436 [DEBUG] (Messenger.java:30) - Got current hour: 0
+2016-10-08T11:48:03,436 [DEBUG] (Messenger.java:61) - --defineTimeOfDay() method begin--
+2016-10-08T11:48:03,436 [DEBUG] (Messenger.java:67) - ---defineTimeOfDay() method end---
+2016-10-08T11:48:03,436 [DEBUG] (Messenger.java:32) - Current time of day: night
+2016-10-08T11:48:03,437 [DEBUG] (Messenger.java:34) - Got user's locale: ru
+2016-10-08T11:48:03,437 [DEBUG] (Messenger.java:36) - Locale after validation: ru
+2016-10-08T11:48:03,437 [DEBUG] (Messenger.java:40) - Connecting to message resource...
+2016-10-08T11:48:03,437 [DEBUG] (Messenger.java:43) - Connection succeeded!
+2016-10-08T11:48:03,437 [DEBUG] (Messenger.java:50) - Returned message: Спокойной ночи, Мир!
+2016-10-08T11:48:03,437 [DEBUG] (Messenger.java:51) - ----getMessage() method end----
+
+2016-10-08T11:48:03,438 [DEBUG] (Messenger.java:28) - ---getMessage() method begin---
+2016-10-08T11:48:03,438 [DEBUG] (Messenger.java:30) - Got current hour: 2
+2016-10-08T11:48:03,439 [DEBUG] (Messenger.java:61) - --defineTimeOfDay() method begin--
+2016-10-08T11:48:03,439 [DEBUG] (Messenger.java:67) - ---defineTimeOfDay() method end---
+2016-10-08T11:48:03,439 [DEBUG] (Messenger.java:32) - Current time of day: night
+2016-10-08T11:48:03,439 [DEBUG] (Messenger.java:34) - Got user's locale: ru
+2016-10-08T11:48:03,439 [DEBUG] (Messenger.java:36) - Locale after validation: ru
+2016-10-08T11:48:03,439 [DEBUG] (Messenger.java:40) - Connecting to message resource...
+2016-10-08T11:48:03,440 [DEBUG] (Messenger.java:43) - Connection succeeded!
+2016-10-08T11:48:03,440 [DEBUG] (Messenger.java:50) - Returned message: Спокойной ночи, Мир!
+2016-10-08T11:48:03,440 [DEBUG] (Messenger.java:51) - ----getMessage() method end----
+
+2016-10-08T11:48:03,441 [DEBUG] (Messenger.java:28) - ---getMessage() method begin---
+2016-10-08T11:48:03,441 [DEBUG] (Messenger.java:30) - Got current hour: 6
+2016-10-08T11:48:03,441 [DEBUG] (Messenger.java:61) - --defineTimeOfDay() method begin--
+2016-10-08T11:48:03,441 [DEBUG] (Messenger.java:67) - ---defineTimeOfDay() method end---
+2016-10-08T11:48:03,441 [DEBUG] (Messenger.java:32) - Current time of day: morning
+2016-10-08T11:48:03,441 [DEBUG] (Messenger.java:34) - Got user's locale: ru
+2016-10-08T11:48:03,442 [DEBUG] (Messenger.java:36) - Locale after validation: ru
+2016-10-08T11:48:03,442 [DEBUG] (Messenger.java:40) - Connecting to message resource...
+2016-10-08T11:48:03,442 [DEBUG] (Messenger.java:43) - Connection succeeded!
+2016-10-08T11:48:03,442 [DEBUG] (Messenger.java:50) - Returned message: Доброе утро, Мир!
+2016-10-08T11:48:03,442 [DEBUG] (Messenger.java:51) - ----getMessage() method end----
+
+2016-10-08T11:48:03,443 [DEBUG] (Messenger.java:28) - ---getMessage() method begin---
+2016-10-08T11:48:03,444 [DEBUG] (Messenger.java:30) - Got current hour: 8
+2016-10-08T11:48:03,444 [DEBUG] (Messenger.java:61) - --defineTimeOfDay() method begin--
+2016-10-08T11:48:03,449 [DEBUG] (Messenger.java:67) - ---defineTimeOfDay() method end---
+2016-10-08T11:48:03,449 [DEBUG] (Messenger.java:32) - Current time of day: morning
+2016-10-08T11:48:03,450 [DEBUG] (Messenger.java:34) - Got user's locale: ru
+2016-10-08T11:48:03,450 [DEBUG] (Messenger.java:36) - Locale after validation: ru
+2016-10-08T11:48:03,450 [DEBUG] (Messenger.java:40) - Connecting to message resource...
+2016-10-08T11:48:03,450 [DEBUG] (Messenger.java:43) - Connection succeeded!
+2016-10-08T11:48:03,451 [DEBUG] (Messenger.java:50) - Returned message: Доброе утро, Мир!
+2016-10-08T11:48:03,451 [DEBUG] (Messenger.java:51) - ----getMessage() method end----
+
+2016-10-08T11:48:03,452 [DEBUG] (Messenger.java:28) - ---getMessage() method begin---
+2016-10-08T11:48:03,453 [DEBUG] (Messenger.java:30) - Got current hour: 9
+2016-10-08T11:48:03,453 [DEBUG] (Messenger.java:61) - --defineTimeOfDay() method begin--
+2016-10-08T11:48:03,453 [DEBUG] (Messenger.java:67) - ---defineTimeOfDay() method end---
+2016-10-08T11:48:03,453 [DEBUG] (Messenger.java:32) - Current time of day: day
+2016-10-08T11:48:03,453 [DEBUG] (Messenger.java:34) - Got user's locale: ru
+2016-10-08T11:48:03,453 [DEBUG] (Messenger.java:36) - Locale after validation: ru
+2016-10-08T11:48:03,454 [DEBUG] (Messenger.java:40) - Connecting to message resource...
+2016-10-08T11:48:03,454 [DEBUG] (Messenger.java:43) - Connection succeeded!
+2016-10-08T11:48:03,454 [DEBUG] (Messenger.java:50) - Returned message: Добрый день, Мир!
+2016-10-08T11:48:03,454 [DEBUG] (Messenger.java:51) - ----getMessage() method end----
+
+2016-10-08T11:48:03,455 [DEBUG] (Messenger.java:28) - ---getMessage() method begin---
+2016-10-08T11:48:03,455 [DEBUG] (Messenger.java:30) - Got current hour: 100
+2016-10-08T11:48:03,455 [DEBUG] (Messenger.java:61) - --defineTimeOfDay() method begin--
+2016-10-08T11:48:03,456 [DEBUG] (Messenger.java:67) - ---defineTimeOfDay() method end---
+2016-10-08T11:48:03,456 [DEBUG] (Messenger.java:32) - Current time of day: night
+2016-10-08T11:48:03,456 [DEBUG] (Messenger.java:34) - Got user's locale: en
+2016-10-08T11:48:03,456 [DEBUG] (Messenger.java:36) - Locale after validation: en
+2016-10-08T11:48:03,456 [DEBUG] (Messenger.java:40) - Connecting to message resource...
+2016-10-08T11:48:03,456 [DEBUG] (Messenger.java:43) - Connection succeeded!
+2016-10-08T11:48:03,457 [DEBUG] (Messenger.java:50) - Returned message: Good night, World!
+2016-10-08T11:48:03,457 [DEBUG] (Messenger.java:51) - ----getMessage() method end----
+
+2016-10-08T11:48:03,457 [DEBUG] (Messenger.java:28) - ---getMessage() method begin---
+2016-10-08T11:48:03,458 [DEBUG] (Messenger.java:30) - Got current hour: -100
+2016-10-08T11:48:03,458 [DEBUG] (Messenger.java:61) - --defineTimeOfDay() method begin--
+2016-10-08T11:48:03,458 [DEBUG] (Messenger.java:67) - ---defineTimeOfDay() method end---
+2016-10-08T11:48:03,458 [DEBUG] (Messenger.java:32) - Current time of day: night
+2016-10-08T11:48:03,458 [DEBUG] (Messenger.java:34) - Got user's locale: en
+2016-10-08T11:48:03,459 [DEBUG] (Messenger.java:36) - Locale after validation: en
+2016-10-08T11:48:03,459 [DEBUG] (Messenger.java:40) - Connecting to message resource...
+2016-10-08T11:48:03,459 [DEBUG] (Messenger.java:43) - Connection succeeded!
+2016-10-08T11:48:03,459 [DEBUG] (Messenger.java:50) - Returned message: Good night, World!
+2016-10-08T11:48:03,459 [DEBUG] (Messenger.java:51) - ----getMessage() method end----
+
+2016-10-08T11:48:03,460 [DEBUG] (Messenger.java:28) - ---getMessage() method begin---
+2016-10-08T11:48:03,460 [DEBUG] (Messenger.java:30) - Got current hour: 9
+2016-10-08T11:48:03,460 [DEBUG] (Messenger.java:61) - --defineTimeOfDay() method begin--
+2016-10-08T11:48:03,461 [DEBUG] (Messenger.java:67) - ---defineTimeOfDay() method end---
+2016-10-08T11:48:03,461 [DEBUG] (Messenger.java:32) - Current time of day: day
+2016-10-08T11:48:03,461 [DEBUG] (Messenger.java:34) - Got user's locale: null
+2016-10-08T11:48:03,461 [DEBUG] (Messenger.java:36) - Locale after validation: en
+2016-10-08T11:48:03,461 [DEBUG] (Messenger.java:40) - Connecting to message resource...
+2016-10-08T11:48:03,461 [DEBUG] (Messenger.java:43) - Connection succeeded!
+2016-10-08T11:48:03,461 [DEBUG] (Messenger.java:50) - Returned message: Good day, World!
+2016-10-08T11:48:03,462 [DEBUG] (Messenger.java:51) - ----getMessage() method end----
+
+2016-10-08T11:48:03,463 [DEBUG] (Messenger.java:28) - ---getMessage() method begin---
+2016-10-08T11:48:03,463 [DEBUG] (Messenger.java:30) - Got current hour: 50
+2016-10-08T11:48:03,463 [DEBUG] (Messenger.java:61) - --defineTimeOfDay() method begin--
+2016-10-08T11:48:03,463 [DEBUG] (Messenger.java:67) - ---defineTimeOfDay() method end---
+2016-10-08T11:48:03,464 [DEBUG] (Messenger.java:32) - Current time of day: night
+2016-10-08T11:48:03,464 [DEBUG] (Messenger.java:34) - Got user's locale: ru
+2016-10-08T11:48:03,464 [DEBUG] (Messenger.java:36) - Locale after validation: ru
+2016-10-08T11:48:03,464 [DEBUG] (Messenger.java:40) - Connecting to message resource...
+2016-10-08T11:48:03,464 [DEBUG] (Messenger.java:43) - Connection succeeded!
+2016-10-08T11:48:03,464 [DEBUG] (Messenger.java:50) - Returned message: Спокойной ночи, Мир!
+2016-10-08T11:48:03,465 [DEBUG] (Messenger.java:51) - ----getMessage() method end----
+
+2016-10-08T11:48:03,465 [DEBUG] (Messenger.java:28) - ---getMessage() method begin---
+2016-10-08T11:48:03,466 [DEBUG] (Messenger.java:30) - Got current hour: -50
+2016-10-08T11:48:03,466 [DEBUG] (Messenger.java:61) - --defineTimeOfDay() method begin--
+2016-10-08T11:48:03,466 [DEBUG] (Messenger.java:67) - ---defineTimeOfDay() method end---
+2016-10-08T11:48:03,466 [DEBUG] (Messenger.java:32) - Current time of day: night
+2016-10-08T11:48:03,466 [DEBUG] (Messenger.java:34) - Got user's locale: ru
+2016-10-08T11:48:03,467 [DEBUG] (Messenger.java:36) - Locale after validation: ru
+2016-10-08T11:48:03,467 [DEBUG] (Messenger.java:40) - Connecting to message resource...
+2016-10-08T11:48:03,467 [DEBUG] (Messenger.java:43) - Connection succeeded!
+2016-10-08T11:48:03,467 [DEBUG] (Messenger.java:50) - Returned message: Спокойной ночи, Мир!
+2016-10-08T11:48:03,467 [DEBUG] (Messenger.java:51) - ----getMessage() method end----
+
+2016-10-08T11:48:03,468 [DEBUG] (Messenger.java:28) - ---getMessage() method begin---
+2016-10-08T11:48:03,468 [DEBUG] (Messenger.java:30) - Got current hour: 19
+2016-10-08T11:48:03,468 [DEBUG] (Messenger.java:61) - --defineTimeOfDay() method begin--
+2016-10-08T11:48:03,468 [DEBUG] (Messenger.java:67) - ---defineTimeOfDay() method end---
+2016-10-08T11:48:03,469 [DEBUG] (Messenger.java:32) - Current time of day: evening
+2016-10-08T11:48:03,469 [DEBUG] (Messenger.java:34) - Got user's locale: null
+2016-10-08T11:48:03,469 [DEBUG] (Messenger.java:36) - Locale after validation: en
+2016-10-08T11:48:03,469 [DEBUG] (Messenger.java:40) - Connecting to message resource...
+2016-10-08T11:48:03,469 [DEBUG] (Messenger.java:43) - Connection succeeded!
+2016-10-08T11:48:03,469 [DEBUG] (Messenger.java:50) - Returned message: Good evening, World!
+2016-10-08T11:48:03,470 [DEBUG] (Messenger.java:51) - ----getMessage() method end----
+
+2016-10-08T11:48:03,471 [DEBUG] (Messenger.java:28) - ---getMessage() method begin---
+2016-10-08T11:48:03,471 [DEBUG] (Messenger.java:30) - Got current hour: 1000
+2016-10-08T11:48:03,471 [DEBUG] (Messenger.java:61) - --defineTimeOfDay() method begin--
+2016-10-08T11:48:03,471 [DEBUG] (Messenger.java:67) - ---defineTimeOfDay() method end---
+2016-10-08T11:48:03,472 [DEBUG] (Messenger.java:32) - Current time of day: night
+2016-10-08T11:48:03,472 [DEBUG] (Messenger.java:34) - Got user's locale: de
+2016-10-08T11:48:03,472 [DEBUG] (Messenger.java:36) - Locale after validation: en
+2016-10-08T11:48:03,472 [DEBUG] (Messenger.java:40) - Connecting to message resource...
+2016-10-08T11:48:03,472 [DEBUG] (Messenger.java:43) - Connection succeeded!
+2016-10-08T11:48:03,472 [DEBUG] (Messenger.java:50) - Returned message: Good night, World!
+2016-10-08T11:48:03,473 [DEBUG] (Messenger.java:51) - ----getMessage() method end----
+
+2016-10-08T11:59:01,115 [DEBUG] (Messenger.java:28) - ---getMessage() method begin---
+2016-10-08T11:59:01,117 [DEBUG] (Messenger.java:30) - Got current hour: -1000
+2016-10-08T11:59:01,117 [DEBUG] (Messenger.java:61) - --defineTimeOfDay() method begin--
+2016-10-08T11:59:01,117 [DEBUG] (Messenger.java:67) - ---defineTimeOfDay() method end---
+2016-10-08T11:59:01,118 [DEBUG] (Messenger.java:32) - Current time of day: night
+2016-10-08T11:59:01,118 [DEBUG] (Messenger.java:34) - Got user's locale: null
+2016-10-08T11:59:01,118 [DEBUG] (Messenger.java:36) - Locale after validation: en
+2016-10-08T11:59:01,118 [DEBUG] (Messenger.java:40) - Connecting to message resource...
+2016-10-08T11:59:01,123 [DEBUG] (Messenger.java:43) - Connection succeeded!
+2016-10-08T11:59:01,123 [DEBUG] (Messenger.java:50) - Returned message: Good night, World!
+2016-10-08T11:59:01,123 [DEBUG] (Messenger.java:51) - ----getMessage() method end----
+
+2016-10-08T11:59:01,127 [DEBUG] (Messenger.java:28) - ---getMessage() method begin---
+2016-10-08T11:59:01,128 [DEBUG] (Messenger.java:30) - Got current hour: 13
+2016-10-08T11:59:01,128 [DEBUG] (Messenger.java:61) - --defineTimeOfDay() method begin--
+2016-10-08T11:59:01,128 [DEBUG] (Messenger.java:67) - ---defineTimeOfDay() method end---
+2016-10-08T11:59:01,134 [DEBUG] (Messenger.java:32) - Current time of day: day
+2016-10-08T11:59:01,134 [DEBUG] (Messenger.java:34) - Got user's locale: en
+2016-10-08T11:59:01,134 [DEBUG] (Messenger.java:36) - Locale after validation: en
+2016-10-08T11:59:01,135 [DEBUG] (Messenger.java:40) - Connecting to message resource...
+2016-10-08T11:59:01,135 [DEBUG] (Messenger.java:43) - Connection succeeded!
+2016-10-08T11:59:01,135 [DEBUG] (Messenger.java:50) - Returned message: Good day, World!
+2016-10-08T11:59:01,135 [DEBUG] (Messenger.java:51) - ----getMessage() method end----
+
+2016-10-08T11:59:01,136 [DEBUG] (Messenger.java:28) - ---getMessage() method begin---
+2016-10-08T11:59:01,136 [DEBUG] (Messenger.java:30) - Got current hour: 17
+2016-10-08T11:59:01,136 [DEBUG] (Messenger.java:61) - --defineTimeOfDay() method begin--
+2016-10-08T11:59:01,136 [DEBUG] (Messenger.java:67) - ---defineTimeOfDay() method end---
+2016-10-08T11:59:01,146 [DEBUG] (Messenger.java:32) - Current time of day: day
+2016-10-08T11:59:01,146 [DEBUG] (Messenger.java:34) - Got user's locale: en
+2016-10-08T11:59:01,146 [DEBUG] (Messenger.java:36) - Locale after validation: en
+2016-10-08T11:59:01,146 [DEBUG] (Messenger.java:40) - Connecting to message resource...
+2016-10-08T11:59:01,146 [DEBUG] (Messenger.java:43) - Connection succeeded!
+2016-10-08T11:59:01,147 [DEBUG] (Messenger.java:50) - Returned message: Good day, World!
+2016-10-08T11:59:01,151 [DEBUG] (Messenger.java:51) - ----getMessage() method end----
+
+2016-10-08T11:59:01,151 [DEBUG] (Messenger.java:28) - ---getMessage() method begin---
+2016-10-08T11:59:01,151 [DEBUG] (Messenger.java:30) - Got current hour: 19
+2016-10-08T11:59:01,152 [DEBUG] (Messenger.java:61) - --defineTimeOfDay() method begin--
+2016-10-08T11:59:01,152 [DEBUG] (Messenger.java:67) - ---defineTimeOfDay() method end---
+2016-10-08T11:59:01,152 [DEBUG] (Messenger.java:32) - Current time of day: evening
+2016-10-08T11:59:01,152 [DEBUG] (Messenger.java:34) - Got user's locale: en
+2016-10-08T11:59:01,153 [DEBUG] (Messenger.java:36) - Locale after validation: en
+2016-10-08T11:59:01,153 [DEBUG] (Messenger.java:40) - Connecting to message resource...
+2016-10-08T11:59:01,157 [DEBUG] (Messenger.java:43) - Connection succeeded!
+2016-10-08T11:59:01,157 [DEBUG] (Messenger.java:50) - Returned message: Good evening, World!
+2016-10-08T11:59:01,158 [DEBUG] (Messenger.java:51) - ----getMessage() method end----
+
+2016-10-08T11:59:01,158 [DEBUG] (Messenger.java:28) - ---getMessage() method begin---
+2016-10-08T11:59:01,158 [DEBUG] (Messenger.java:30) - Got current hour: 23
+2016-10-08T11:59:01,158 [DEBUG] (Messenger.java:61) - --defineTimeOfDay() method begin--
+2016-10-08T11:59:01,159 [DEBUG] (Messenger.java:67) - ---defineTimeOfDay() method end---
+2016-10-08T11:59:01,159 [DEBUG] (Messenger.java:32) - Current time of day: night
+2016-10-08T11:59:01,159 [DEBUG] (Messenger.java:34) - Got user's locale: en
+2016-10-08T11:59:01,159 [DEBUG] (Messenger.java:36) - Locale after validation: en
+2016-10-08T11:59:01,159 [DEBUG] (Messenger.java:40) - Connecting to message resource...
+2016-10-08T11:59:01,160 [DEBUG] (Messenger.java:43) - Connection succeeded!
+2016-10-08T11:59:01,160 [DEBUG] (Messenger.java:50) - Returned message: Good night, World!
+2016-10-08T11:59:01,160 [DEBUG] (Messenger.java:51) - ----getMessage() method end----
+
+2016-10-08T11:59:01,160 [DEBUG] (Messenger.java:28) - ---getMessage() method begin---
+2016-10-08T11:59:01,161 [DEBUG] (Messenger.java:30) - Got current hour: 19
+2016-10-08T11:59:01,161 [DEBUG] (Messenger.java:61) - --defineTimeOfDay() method begin--
+2016-10-08T11:59:01,161 [DEBUG] (Messenger.java:67) - ---defineTimeOfDay() method end---
+2016-10-08T11:59:01,161 [DEBUG] (Messenger.java:32) - Current time of day: evening
+2016-10-08T11:59:01,161 [DEBUG] (Messenger.java:34) - Got user's locale: fr
+2016-10-08T11:59:01,162 [DEBUG] (Messenger.java:36) - Locale after validation: en
+2016-10-08T11:59:01,172 [DEBUG] (Messenger.java:40) - Connecting to message resource...
+2016-10-08T11:59:01,177 [DEBUG] (Messenger.java:43) - Connection succeeded!
+2016-10-08T11:59:01,179 [DEBUG] (Messenger.java:50) - Returned message: Good evening, World!
+2016-10-08T11:59:01,179 [DEBUG] (Messenger.java:51) - ----getMessage() method end----
+
+2016-10-08T11:59:01,182 [DEBUG] (Messenger.java:28) - ---getMessage() method begin---
+2016-10-08T11:59:01,182 [DEBUG] (Messenger.java:30) - Got current hour: 19
+2016-10-08T11:59:01,182 [DEBUG] (Messenger.java:61) - --defineTimeOfDay() method begin--
+2016-10-08T11:59:01,183 [DEBUG] (Messenger.java:67) - ---defineTimeOfDay() method end---
+2016-10-08T11:59:01,183 [DEBUG] (Messenger.java:32) - Current time of day: evening
+2016-10-08T11:59:01,183 [DEBUG] (Messenger.java:34) - Got user's locale: de
+2016-10-08T11:59:01,184 [DEBUG] (Messenger.java:36) - Locale after validation: en
+2016-10-08T11:59:01,184 [DEBUG] (Messenger.java:40) - Connecting to message resource...
+2016-10-08T11:59:01,184 [DEBUG] (Messenger.java:43) - Connection succeeded!
+2016-10-08T11:59:01,184 [DEBUG] (Messenger.java:50) - Returned message: Good evening, World!
+2016-10-08T11:59:01,185 [DEBUG] (Messenger.java:51) - ----getMessage() method end----
+
+2016-10-08T11:59:01,188 [DEBUG] (Messenger.java:28) - ---getMessage() method begin---
+2016-10-08T11:59:01,192 [DEBUG] (Messenger.java:30) - Got current hour: 12
+2016-10-08T11:59:01,192 [DEBUG] (Messenger.java:61) - --defineTimeOfDay() method begin--
+2016-10-08T11:59:01,192 [DEBUG] (Messenger.java:67) - ---defineTimeOfDay() method end---
+2016-10-08T11:59:01,193 [DEBUG] (Messenger.java:32) - Current time of day: day
+2016-10-08T11:59:01,193 [DEBUG] (Messenger.java:34) - Got user's locale: ru
+2016-10-08T11:59:01,193 [DEBUG] (Messenger.java:36) - Locale after validation: ru
+2016-10-08T11:59:01,194 [DEBUG] (Messenger.java:40) - Connecting to message resource...
+2016-10-08T11:59:01,205 [DEBUG] (Messenger.java:43) - Connection succeeded!
+2016-10-08T11:59:01,205 [DEBUG] (Messenger.java:50) - Returned message: Добрый день, Мир!
+2016-10-08T11:59:01,206 [DEBUG] (Messenger.java:51) - ----getMessage() method end----
+
+2016-10-08T11:59:01,209 [DEBUG] (Messenger.java:28) - ---getMessage() method begin---
+2016-10-08T11:59:01,210 [DEBUG] (Messenger.java:30) - Got current hour: 18
+2016-10-08T11:59:01,210 [DEBUG] (Messenger.java:61) - --defineTimeOfDay() method begin--
+2016-10-08T11:59:01,211 [DEBUG] (Messenger.java:67) - ---defineTimeOfDay() method end---
+2016-10-08T11:59:01,211 [DEBUG] (Messenger.java:32) - Current time of day: day
+2016-10-08T11:59:01,211 [DEBUG] (Messenger.java:34) - Got user's locale: ru
+2016-10-08T11:59:01,212 [DEBUG] (Messenger.java:36) - Locale after validation: ru
+2016-10-08T11:59:01,213 [DEBUG] (Messenger.java:40) - Connecting to message resource...
+2016-10-08T11:59:01,214 [DEBUG] (Messenger.java:43) - Connection succeeded!
+2016-10-08T11:59:01,214 [DEBUG] (Messenger.java:50) - Returned message: Добрый день, Мир!
+2016-10-08T11:59:01,214 [DEBUG] (Messenger.java:51) - ----getMessage() method end----
+
+2016-10-08T11:59:01,222 [DEBUG] (Messenger.java:28) - ---getMessage() method begin---
+2016-10-08T11:59:01,223 [DEBUG] (Messenger.java:30) - Got current hour: 19
+2016-10-08T11:59:01,223 [DEBUG] (Messenger.java:61) - --defineTimeOfDay() method begin--
+2016-10-08T11:59:01,223 [DEBUG] (Messenger.java:67) - ---defineTimeOfDay() method end---
+2016-10-08T11:59:01,226 [DEBUG] (Messenger.java:32) - Current time of day: evening
+2016-10-08T11:59:01,227 [DEBUG] (Messenger.java:34) - Got user's locale: ru
+2016-10-08T11:59:01,227 [DEBUG] (Messenger.java:36) - Locale after validation: ru
+2016-10-08T11:59:01,227 [DEBUG] (Messenger.java:40) - Connecting to message resource...
+2016-10-08T11:59:01,229 [DEBUG] (Messenger.java:43) - Connection succeeded!
+2016-10-08T11:59:01,233 [DEBUG] (Messenger.java:50) - Returned message: Добрый вечер, Мир!
+2016-10-08T11:59:01,233 [DEBUG] (Messenger.java:51) - ----getMessage() method end----
+
+2016-10-08T11:59:01,239 [DEBUG] (Messenger.java:28) - ---getMessage() method begin---
+2016-10-08T11:59:01,240 [DEBUG] (Messenger.java:30) - Got current hour: 21
+2016-10-08T11:59:01,240 [DEBUG] (Messenger.java:61) - --defineTimeOfDay() method begin--
+2016-10-08T11:59:01,241 [DEBUG] (Messenger.java:67) - ---defineTimeOfDay() method end---
+2016-10-08T11:59:01,241 [DEBUG] (Messenger.java:32) - Current time of day: evening
+2016-10-08T11:59:01,241 [DEBUG] (Messenger.java:34) - Got user's locale: ru
+2016-10-08T11:59:01,241 [DEBUG] (Messenger.java:36) - Locale after validation: ru
+2016-10-08T11:59:01,242 [DEBUG] (Messenger.java:40) - Connecting to message resource...
+2016-10-08T11:59:01,243 [DEBUG] (Messenger.java:43) - Connection succeeded!
+2016-10-08T11:59:01,244 [DEBUG] (Messenger.java:50) - Returned message: Добрый вечер, Мир!
+2016-10-08T11:59:01,244 [DEBUG] (Messenger.java:51) - ----getMessage() method end----
+
+2016-10-08T11:59:01,245 [DEBUG] (Messenger.java:28) - ---getMessage() method begin---
+2016-10-08T11:59:01,245 [DEBUG] (Messenger.java:30) - Got current hour: 0
+2016-10-08T11:59:01,245 [DEBUG] (Messenger.java:61) - --defineTimeOfDay() method begin--
+2016-10-08T11:59:01,250 [DEBUG] (Messenger.java:67) - ---defineTimeOfDay() method end---
+2016-10-08T11:59:01,251 [DEBUG] (Messenger.java:32) - Current time of day: night
+2016-10-08T11:59:01,251 [DEBUG] (Messenger.java:34) - Got user's locale: ru
+2016-10-08T11:59:01,252 [DEBUG] (Messenger.java:36) - Locale after validation: ru
+2016-10-08T11:59:01,256 [DEBUG] (Messenger.java:40) - Connecting to message resource...
+2016-10-08T11:59:01,257 [DEBUG] (Messenger.java:43) - Connection succeeded!
+2016-10-08T11:59:01,257 [DEBUG] (Messenger.java:50) - Returned message: Спокойной ночи, Мир!
+2016-10-08T11:59:01,257 [DEBUG] (Messenger.java:51) - ----getMessage() method end----
+
+2016-10-08T11:59:01,263 [DEBUG] (Messenger.java:28) - ---getMessage() method begin---
+2016-10-08T11:59:01,264 [DEBUG] (Messenger.java:30) - Got current hour: 0
+2016-10-08T11:59:01,267 [DEBUG] (Messenger.java:61) - --defineTimeOfDay() method begin--
+2016-10-08T11:59:01,268 [DEBUG] (Messenger.java:67) - ---defineTimeOfDay() method end---
+2016-10-08T11:59:01,268 [DEBUG] (Messenger.java:32) - Current time of day: night
+2016-10-08T11:59:01,268 [DEBUG] (Messenger.java:34) - Got user's locale: en
+2016-10-08T11:59:01,268 [DEBUG] (Messenger.java:36) - Locale after validation: en
+2016-10-08T11:59:01,269 [DEBUG] (Messenger.java:40) - Connecting to message resource...
+2016-10-08T11:59:01,269 [DEBUG] (Messenger.java:43) - Connection succeeded!
+2016-10-08T11:59:01,269 [DEBUG] (Messenger.java:50) - Returned message: Good night, World!
+2016-10-08T11:59:01,269 [DEBUG] (Messenger.java:51) - ----getMessage() method end----
+
+2016-10-08T11:59:01,273 [DEBUG] (Messenger.java:28) - ---getMessage() method begin---
+2016-10-08T11:59:01,273 [DEBUG] (Messenger.java:30) - Got current hour: 4
+2016-10-08T11:59:01,273 [DEBUG] (Messenger.java:61) - --defineTimeOfDay() method begin--
+2016-10-08T11:59:01,274 [DEBUG] (Messenger.java:67) - ---defineTimeOfDay() method end---
+2016-10-08T11:59:01,274 [DEBUG] (Messenger.java:32) - Current time of day: night
+2016-10-08T11:59:01,274 [DEBUG] (Messenger.java:34) - Got user's locale: en
+2016-10-08T11:59:01,274 [DEBUG] (Messenger.java:36) - Locale after validation: en
+2016-10-08T11:59:01,275 [DEBUG] (Messenger.java:40) - Connecting to message resource...
+2016-10-08T11:59:01,275 [DEBUG] (Messenger.java:43) - Connection succeeded!
+2016-10-08T11:59:01,275 [DEBUG] (Messenger.java:50) - Returned message: Good night, World!
+2016-10-08T11:59:01,275 [DEBUG] (Messenger.java:51) - ----getMessage() method end----
+
+2016-10-08T11:59:01,280 [DEBUG] (Messenger.java:28) - ---getMessage() method begin---
+2016-10-08T11:59:01,281 [DEBUG] (Messenger.java:30) - Got current hour: 6
+2016-10-08T11:59:01,281 [DEBUG] (Messenger.java:61) - --defineTimeOfDay() method begin--
+2016-10-08T11:59:01,281 [DEBUG] (Messenger.java:67) - ---defineTimeOfDay() method end---
+2016-10-08T11:59:01,281 [DEBUG] (Messenger.java:32) - Current time of day: morning
+2016-10-08T11:59:01,282 [DEBUG] (Messenger.java:34) - Got user's locale: en
+2016-10-08T11:59:01,282 [DEBUG] (Messenger.java:36) - Locale after validation: en
+2016-10-08T11:59:01,282 [DEBUG] (Messenger.java:40) - Connecting to message resource...
+2016-10-08T11:59:01,282 [DEBUG] (Messenger.java:43) - Connection succeeded!
+2016-10-08T11:59:01,283 [DEBUG] (Messenger.java:50) - Returned message: Good morning, World!
+2016-10-08T11:59:01,290 [DEBUG] (Messenger.java:51) - ----getMessage() method end----
+
+2016-10-08T11:59:01,291 [DEBUG] (Messenger.java:28) - ---getMessage() method begin---
+2016-10-08T11:59:01,292 [DEBUG] (Messenger.java:30) - Got current hour: 9
+2016-10-08T11:59:01,292 [DEBUG] (Messenger.java:61) - --defineTimeOfDay() method begin--
+2016-10-08T11:59:01,292 [DEBUG] (Messenger.java:67) - ---defineTimeOfDay() method end---
+2016-10-08T11:59:01,292 [DEBUG] (Messenger.java:32) - Current time of day: day
+2016-10-08T11:59:01,293 [DEBUG] (Messenger.java:34) - Got user's locale: en
+2016-10-08T11:59:01,293 [DEBUG] (Messenger.java:36) - Locale after validation: en
+2016-10-08T11:59:01,293 [DEBUG] (Messenger.java:40) - Connecting to message resource...
+2016-10-08T11:59:01,293 [DEBUG] (Messenger.java:43) - Connection succeeded!
+2016-10-08T11:59:01,294 [DEBUG] (Messenger.java:50) - Returned message: Good day, World!
+2016-10-08T11:59:01,294 [DEBUG] (Messenger.java:51) - ----getMessage() method end----
+
+2016-10-08T11:59:01,294 [DEBUG] (Messenger.java:28) - ---getMessage() method begin---
+2016-10-08T11:59:01,294 [DEBUG] (Messenger.java:30) - Got current hour: 8
+2016-10-08T11:59:01,295 [DEBUG] (Messenger.java:61) - --defineTimeOfDay() method begin--
+2016-10-08T11:59:01,300 [DEBUG] (Messenger.java:67) - ---defineTimeOfDay() method end---
+2016-10-08T11:59:01,300 [DEBUG] (Messenger.java:32) - Current time of day: morning
+2016-10-08T11:59:01,301 [DEBUG] (Messenger.java:34) - Got user's locale: fr
+2016-10-08T11:59:01,301 [DEBUG] (Messenger.java:36) - Locale after validation: en
+2016-10-08T11:59:01,301 [DEBUG] (Messenger.java:40) - Connecting to message resource...
+2016-10-08T11:59:01,301 [DEBUG] (Messenger.java:43) - Connection succeeded!
+2016-10-08T11:59:01,302 [DEBUG] (Messenger.java:50) - Returned message: Good morning, World!
+2016-10-08T11:59:01,302 [DEBUG] (Messenger.java:51) - ----getMessage() method end----
+
+2016-10-08T11:59:01,305 [DEBUG] (Messenger.java:28) - ---getMessage() method begin---
+2016-10-08T11:59:01,305 [DEBUG] (Messenger.java:30) - Got current hour: 0
+2016-10-08T11:59:01,305 [DEBUG] (Messenger.java:61) - --defineTimeOfDay() method begin--
+2016-10-08T11:59:01,305 [DEBUG] (Messenger.java:67) - ---defineTimeOfDay() method end---
+2016-10-08T11:59:01,306 [DEBUG] (Messenger.java:32) - Current time of day: night
+2016-10-08T11:59:01,306 [DEBUG] (Messenger.java:34) - Got user's locale: de
+2016-10-08T11:59:01,306 [DEBUG] (Messenger.java:36) - Locale after validation: en
+2016-10-08T11:59:01,306 [DEBUG] (Messenger.java:40) - Connecting to message resource...
+2016-10-08T11:59:01,307 [DEBUG] (Messenger.java:43) - Connection succeeded!
+2016-10-08T11:59:01,307 [DEBUG] (Messenger.java:50) - Returned message: Good night, World!
+2016-10-08T11:59:01,307 [DEBUG] (Messenger.java:51) - ----getMessage() method end----
+
+2016-10-08T11:59:01,307 [DEBUG] (Messenger.java:28) - ---getMessage() method begin---
+2016-10-08T11:59:01,308 [DEBUG] (Messenger.java:30) - Got current hour: 0
+2016-10-08T11:59:01,308 [DEBUG] (Messenger.java:61) - --defineTimeOfDay() method begin--
+2016-10-08T11:59:01,308 [DEBUG] (Messenger.java:67) - ---defineTimeOfDay() method end---
+2016-10-08T11:59:01,308 [DEBUG] (Messenger.java:32) - Current time of day: night
+2016-10-08T11:59:01,308 [DEBUG] (Messenger.java:34) - Got user's locale: de
+2016-10-08T11:59:01,309 [DEBUG] (Messenger.java:36) - Locale after validation: en
+2016-10-08T11:59:01,309 [DEBUG] (Messenger.java:40) - Connecting to message resource...
+2016-10-08T11:59:01,309 [DEBUG] (Messenger.java:43) - Connection succeeded!
+2016-10-08T11:59:01,309 [DEBUG] (Messenger.java:50) - Returned message: Good night, World!
+2016-10-08T11:59:01,309 [DEBUG] (Messenger.java:51) - ----getMessage() method end----
+
+2016-10-08T11:59:01,310 [DEBUG] (Messenger.java:28) - ---getMessage() method begin---
+2016-10-08T11:59:01,315 [DEBUG] (Messenger.java:30) - Got current hour: 0
+2016-10-08T11:59:01,315 [DEBUG] (Messenger.java:61) - --defineTimeOfDay() method begin--
+2016-10-08T11:59:01,325 [DEBUG] (Messenger.java:67) - ---defineTimeOfDay() method end---
+2016-10-08T11:59:01,326 [DEBUG] (Messenger.java:32) - Current time of day: night
+2016-10-08T11:59:01,326 [DEBUG] (Messenger.java:34) - Got user's locale: ru
+2016-10-08T11:59:01,326 [DEBUG] (Messenger.java:36) - Locale after validation: ru
+2016-10-08T11:59:01,326 [DEBUG] (Messenger.java:40) - Connecting to message resource...
+2016-10-08T11:59:01,327 [DEBUG] (Messenger.java:43) - Connection succeeded!
+2016-10-08T11:59:01,327 [DEBUG] (Messenger.java:50) - Returned message: Спокойной ночи, Мир!
+2016-10-08T11:59:01,327 [DEBUG] (Messenger.java:51) - ----getMessage() method end----
+
+2016-10-08T11:59:01,333 [DEBUG] (Messenger.java:28) - ---getMessage() method begin---
+2016-10-08T11:59:01,333 [DEBUG] (Messenger.java:30) - Got current hour: 2
+2016-10-08T11:59:01,337 [DEBUG] (Messenger.java:61) - --defineTimeOfDay() method begin--
+2016-10-08T11:59:01,337 [DEBUG] (Messenger.java:67) - ---defineTimeOfDay() method end---
+2016-10-08T11:59:01,338 [DEBUG] (Messenger.java:32) - Current time of day: night
+2016-10-08T11:59:01,338 [DEBUG] (Messenger.java:34) - Got user's locale: ru
+2016-10-08T11:59:01,338 [DEBUG] (Messenger.java:36) - Locale after validation: ru
+2016-10-08T11:59:01,338 [DEBUG] (Messenger.java:40) - Connecting to message resource...
+2016-10-08T11:59:01,338 [DEBUG] (Messenger.java:43) - Connection succeeded!
+2016-10-08T11:59:01,339 [DEBUG] (Messenger.java:50) - Returned message: Спокойной ночи, Мир!
+2016-10-08T11:59:01,339 [DEBUG] (Messenger.java:51) - ----getMessage() method end----
+
+2016-10-08T11:59:01,339 [DEBUG] (Messenger.java:28) - ---getMessage() method begin---
+2016-10-08T11:59:01,340 [DEBUG] (Messenger.java:30) - Got current hour: 6
+2016-10-08T11:59:01,340 [DEBUG] (Messenger.java:61) - --defineTimeOfDay() method begin--
+2016-10-08T11:59:01,340 [DEBUG] (Messenger.java:67) - ---defineTimeOfDay() method end---
+2016-10-08T11:59:01,340 [DEBUG] (Messenger.java:32) - Current time of day: morning
+2016-10-08T11:59:01,346 [DEBUG] (Messenger.java:34) - Got user's locale: ru
+2016-10-08T11:59:01,346 [DEBUG] (Messenger.java:36) - Locale after validation: ru
+2016-10-08T11:59:01,348 [DEBUG] (Messenger.java:40) - Connecting to message resource...
+2016-10-08T11:59:01,348 [DEBUG] (Messenger.java:43) - Connection succeeded!
+2016-10-08T11:59:01,348 [DEBUG] (Messenger.java:50) - Returned message: Доброе утро, Мир!
+2016-10-08T11:59:01,349 [DEBUG] (Messenger.java:51) - ----getMessage() method end----
+
+2016-10-08T11:59:01,351 [DEBUG] (Messenger.java:28) - ---getMessage() method begin---
+2016-10-08T11:59:01,352 [DEBUG] (Messenger.java:30) - Got current hour: 8
+2016-10-08T11:59:01,352 [DEBUG] (Messenger.java:61) - --defineTimeOfDay() method begin--
+2016-10-08T11:59:01,352 [DEBUG] (Messenger.java:67) - ---defineTimeOfDay() method end---
+2016-10-08T11:59:01,352 [DEBUG] (Messenger.java:32) - Current time of day: morning
+2016-10-08T11:59:01,352 [DEBUG] (Messenger.java:34) - Got user's locale: ru
+2016-10-08T11:59:01,365 [DEBUG] (Messenger.java:36) - Locale after validation: ru
+2016-10-08T11:59:01,365 [DEBUG] (Messenger.java:40) - Connecting to message resource...
+2016-10-08T11:59:01,366 [DEBUG] (Messenger.java:43) - Connection succeeded!
+2016-10-08T11:59:01,366 [DEBUG] (Messenger.java:50) - Returned message: Доброе утро, Мир!
+2016-10-08T11:59:01,366 [DEBUG] (Messenger.java:51) - ----getMessage() method end----
+
+2016-10-08T11:59:01,367 [DEBUG] (Messenger.java:28) - ---getMessage() method begin---
+2016-10-08T11:59:01,368 [DEBUG] (Messenger.java:30) - Got current hour: 9
+2016-10-08T11:59:01,368 [DEBUG] (Messenger.java:61) - --defineTimeOfDay() method begin--
+2016-10-08T11:59:01,376 [DEBUG] (Messenger.java:67) - ---defineTimeOfDay() method end---
+2016-10-08T11:59:01,376 [DEBUG] (Messenger.java:32) - Current time of day: day
+2016-10-08T11:59:01,376 [DEBUG] (Messenger.java:34) - Got user's locale: ru
+2016-10-08T11:59:01,376 [DEBUG] (Messenger.java:36) - Locale after validation: ru
+2016-10-08T11:59:01,377 [DEBUG] (Messenger.java:40) - Connecting to message resource...
+2016-10-08T11:59:01,377 [DEBUG] (Messenger.java:43) - Connection succeeded!
+2016-10-08T11:59:01,377 [DEBUG] (Messenger.java:50) - Returned message: Добрый день, Мир!
+2016-10-08T11:59:01,377 [DEBUG] (Messenger.java:51) - ----getMessage() method end----
+
+2016-10-08T11:59:01,381 [DEBUG] (Messenger.java:28) - ---getMessage() method begin---
+2016-10-08T11:59:01,381 [DEBUG] (Messenger.java:30) - Got current hour: 100
+2016-10-08T11:59:01,381 [DEBUG] (Messenger.java:61) - --defineTimeOfDay() method begin--
+2016-10-08T11:59:01,382 [DEBUG] (Messenger.java:67) - ---defineTimeOfDay() method end---
+2016-10-08T11:59:01,382 [DEBUG] (Messenger.java:32) - Current time of day: night
+2016-10-08T11:59:01,382 [DEBUG] (Messenger.java:34) - Got user's locale: en
+2016-10-08T11:59:01,382 [DEBUG] (Messenger.java:36) - Locale after validation: en
+2016-10-08T11:59:01,383 [DEBUG] (Messenger.java:40) - Connecting to message resource...
+2016-10-08T11:59:01,383 [DEBUG] (Messenger.java:43) - Connection succeeded!
+2016-10-08T11:59:01,383 [DEBUG] (Messenger.java:50) - Returned message: Good night, World!
+2016-10-08T11:59:01,383 [DEBUG] (Messenger.java:51) - ----getMessage() method end----
+
+2016-10-08T11:59:01,384 [DEBUG] (Messenger.java:28) - ---getMessage() method begin---
+2016-10-08T11:59:01,384 [DEBUG] (Messenger.java:30) - Got current hour: -100
+2016-10-08T11:59:01,384 [DEBUG] (Messenger.java:61) - --defineTimeOfDay() method begin--
+2016-10-08T11:59:01,384 [DEBUG] (Messenger.java:67) - ---defineTimeOfDay() method end---
+2016-10-08T11:59:01,384 [DEBUG] (Messenger.java:32) - Current time of day: night
+2016-10-08T11:59:01,385 [DEBUG] (Messenger.java:34) - Got user's locale: en
+2016-10-08T11:59:01,385 [DEBUG] (Messenger.java:36) - Locale after validation: en
+2016-10-08T11:59:01,385 [DEBUG] (Messenger.java:40) - Connecting to message resource...
+2016-10-08T11:59:01,385 [DEBUG] (Messenger.java:43) - Connection succeeded!
+2016-10-08T11:59:01,385 [DEBUG] (Messenger.java:50) - Returned message: Good night, World!
+2016-10-08T11:59:01,386 [DEBUG] (Messenger.java:51) - ----getMessage() method end----
+
+2016-10-08T11:59:01,386 [DEBUG] (Messenger.java:28) - ---getMessage() method begin---
+2016-10-08T11:59:01,386 [DEBUG] (Messenger.java:30) - Got current hour: 9
+2016-10-08T11:59:01,386 [DEBUG] (Messenger.java:61) - --defineTimeOfDay() method begin--
+2016-10-08T11:59:01,387 [DEBUG] (Messenger.java:67) - ---defineTimeOfDay() method end---
+2016-10-08T11:59:01,387 [DEBUG] (Messenger.java:32) - Current time of day: day
+2016-10-08T11:59:01,387 [DEBUG] (Messenger.java:34) - Got user's locale: null
+2016-10-08T11:59:01,387 [DEBUG] (Messenger.java:36) - Locale after validation: en
+2016-10-08T11:59:01,387 [DEBUG] (Messenger.java:40) - Connecting to message resource...
+2016-10-08T11:59:01,387 [DEBUG] (Messenger.java:43) - Connection succeeded!
+2016-10-08T11:59:01,388 [DEBUG] (Messenger.java:50) - Returned message: Good day, World!
+2016-10-08T11:59:01,388 [DEBUG] (Messenger.java:51) - ----getMessage() method end----
+
+2016-10-08T11:59:01,388 [DEBUG] (Messenger.java:28) - ---getMessage() method begin---
+2016-10-08T11:59:01,389 [DEBUG] (Messenger.java:30) - Got current hour: 50
+2016-10-08T11:59:01,389 [DEBUG] (Messenger.java:61) - --defineTimeOfDay() method begin--
+2016-10-08T11:59:01,389 [DEBUG] (Messenger.java:67) - ---defineTimeOfDay() method end---
+2016-10-08T11:59:01,389 [DEBUG] (Messenger.java:32) - Current time of day: night
+2016-10-08T11:59:01,389 [DEBUG] (Messenger.java:34) - Got user's locale: ru
+2016-10-08T11:59:01,389 [DEBUG] (Messenger.java:36) - Locale after validation: ru
+2016-10-08T11:59:01,390 [DEBUG] (Messenger.java:40) - Connecting to message resource...
+2016-10-08T11:59:01,390 [DEBUG] (Messenger.java:43) - Connection succeeded!
+2016-10-08T11:59:01,390 [DEBUG] (Messenger.java:50) - Returned message: Спокойной ночи, Мир!
+2016-10-08T11:59:01,390 [DEBUG] (Messenger.java:51) - ----getMessage() method end----
+
+2016-10-08T11:59:01,390 [DEBUG] (Messenger.java:28) - ---getMessage() method begin---
+2016-10-08T11:59:01,391 [DEBUG] (Messenger.java:30) - Got current hour: -50
+2016-10-08T11:59:01,391 [DEBUG] (Messenger.java:61) - --defineTimeOfDay() method begin--
+2016-10-08T11:59:01,391 [DEBUG] (Messenger.java:67) - ---defineTimeOfDay() method end---
+2016-10-08T11:59:01,391 [DEBUG] (Messenger.java:32) - Current time of day: night
+2016-10-08T11:59:01,391 [DEBUG] (Messenger.java:34) - Got user's locale: ru
+2016-10-08T11:59:01,392 [DEBUG] (Messenger.java:36) - Locale after validation: ru
+2016-10-08T11:59:01,400 [DEBUG] (Messenger.java:40) - Connecting to message resource...
+2016-10-08T11:59:01,400 [DEBUG] (Messenger.java:43) - Connection succeeded!
+2016-10-08T11:59:01,401 [DEBUG] (Messenger.java:50) - Returned message: Спокойной ночи, Мир!
+2016-10-08T11:59:01,401 [DEBUG] (Messenger.java:51) - ----getMessage() method end----
+
+2016-10-08T11:59:01,412 [DEBUG] (Messenger.java:28) - ---getMessage() method begin---
+2016-10-08T11:59:01,413 [DEBUG] (Messenger.java:30) - Got current hour: 19
+2016-10-08T11:59:01,413 [DEBUG] (Messenger.java:61) - --defineTimeOfDay() method begin--
+2016-10-08T11:59:01,413 [DEBUG] (Messenger.java:67) - ---defineTimeOfDay() method end---
+2016-10-08T11:59:01,414 [DEBUG] (Messenger.java:32) - Current time of day: evening
+2016-10-08T11:59:01,414 [DEBUG] (Messenger.java:34) - Got user's locale: null
+2016-10-08T11:59:01,414 [DEBUG] (Messenger.java:36) - Locale after validation: en
+2016-10-08T11:59:01,414 [DEBUG] (Messenger.java:40) - Connecting to message resource...
+2016-10-08T11:59:01,414 [DEBUG] (Messenger.java:43) - Connection succeeded!
+2016-10-08T11:59:01,415 [DEBUG] (Messenger.java:50) - Returned message: Good evening, World!
+2016-10-08T11:59:01,415 [DEBUG] (Messenger.java:51) - ----getMessage() method end----
+
+2016-10-08T11:59:01,415 [DEBUG] (Messenger.java:28) - ---getMessage() method begin---
+2016-10-08T11:59:01,416 [DEBUG] (Messenger.java:30) - Got current hour: 1000
+2016-10-08T11:59:01,416 [DEBUG] (Messenger.java:61) - --defineTimeOfDay() method begin--
+2016-10-08T11:59:01,416 [DEBUG] (Messenger.java:67) - ---defineTimeOfDay() method end---
+2016-10-08T11:59:01,416 [DEBUG] (Messenger.java:32) - Current time of day: night
+2016-10-08T11:59:01,416 [DEBUG] (Messenger.java:34) - Got user's locale: de
+2016-10-08T11:59:01,416 [DEBUG] (Messenger.java:36) - Locale after validation: en
+2016-10-08T11:59:01,417 [DEBUG] (Messenger.java:40) - Connecting to message resource...
+2016-10-08T11:59:01,417 [DEBUG] (Messenger.java:43) - Connection succeeded!
+2016-10-08T11:59:01,417 [DEBUG] (Messenger.java:50) - Returned message: Good night, World!
+2016-10-08T11:59:01,417 [DEBUG] (Messenger.java:51) - ----getMessage() method end----
+
+2016-10-08T11:59:13,878 [DEBUG] (Messenger.java:28) - ---getMessage() method begin---
+2016-10-08T11:59:13,880 [DEBUG] (Messenger.java:30) - Got current hour: -1000
+2016-10-08T11:59:13,882 [DEBUG] (Messenger.java:61) - --defineTimeOfDay() method begin--
+2016-10-08T11:59:13,883 [DEBUG] (Messenger.java:67) - ---defineTimeOfDay() method end---
+2016-10-08T11:59:13,883 [DEBUG] (Messenger.java:32) - Current time of day: night
+2016-10-08T11:59:13,883 [DEBUG] (Messenger.java:34) - Got user's locale: null
+2016-10-08T11:59:13,884 [DEBUG] (Messenger.java:36) - Locale after validation: en
+2016-10-08T11:59:13,884 [DEBUG] (Messenger.java:40) - Connecting to message resource...
+2016-10-08T11:59:13,885 [DEBUG] (Messenger.java:43) - Connection succeeded!
+2016-10-08T11:59:13,886 [DEBUG] (Messenger.java:50) - Returned message: Good night, World!
+2016-10-08T11:59:13,886 [DEBUG] (Messenger.java:51) - ----getMessage() method end----
+
+2016-10-08T11:59:13,887 [DEBUG] (Messenger.java:28) - ---getMessage() method begin---
+2016-10-08T11:59:13,888 [DEBUG] (Messenger.java:30) - Got current hour: 13
+2016-10-08T11:59:13,888 [DEBUG] (Messenger.java:61) - --defineTimeOfDay() method begin--
+2016-10-08T11:59:13,888 [DEBUG] (Messenger.java:67) - ---defineTimeOfDay() method end---
+2016-10-08T11:59:13,888 [DEBUG] (Messenger.java:32) - Current time of day: day
+2016-10-08T11:59:13,889 [DEBUG] (Messenger.java:34) - Got user's locale: en
+2016-10-08T11:59:13,889 [DEBUG] (Messenger.java:36) - Locale after validation: en
+2016-10-08T11:59:13,889 [DEBUG] (Messenger.java:40) - Connecting to message resource...
+2016-10-08T11:59:13,889 [DEBUG] (Messenger.java:43) - Connection succeeded!
+2016-10-08T11:59:13,890 [DEBUG] (Messenger.java:50) - Returned message: Good day, World!
+2016-10-08T11:59:13,890 [DEBUG] (Messenger.java:51) - ----getMessage() method end----
+
+2016-10-08T11:59:13,891 [DEBUG] (Messenger.java:28) - ---getMessage() method begin---
+2016-10-08T11:59:13,891 [DEBUG] (Messenger.java:30) - Got current hour: 17
+2016-10-08T11:59:13,892 [DEBUG] (Messenger.java:61) - --defineTimeOfDay() method begin--
+2016-10-08T11:59:13,893 [DEBUG] (Messenger.java:67) - ---defineTimeOfDay() method end---
+2016-10-08T11:59:13,893 [DEBUG] (Messenger.java:32) - Current time of day: day
+2016-10-08T11:59:13,893 [DEBUG] (Messenger.java:34) - Got user's locale: en
+2016-10-08T11:59:13,894 [DEBUG] (Messenger.java:36) - Locale after validation: en
+2016-10-08T11:59:13,895 [DEBUG] (Messenger.java:40) - Connecting to message resource...
+2016-10-08T11:59:13,895 [DEBUG] (Messenger.java:43) - Connection succeeded!
+2016-10-08T11:59:13,895 [DEBUG] (Messenger.java:50) - Returned message: Good day, World!
+2016-10-08T11:59:13,895 [DEBUG] (Messenger.java:51) - ----getMessage() method end----
+
+2016-10-08T11:59:13,899 [DEBUG] (Messenger.java:28) - ---getMessage() method begin---
+2016-10-08T11:59:13,902 [DEBUG] (Messenger.java:30) - Got current hour: 19
+2016-10-08T11:59:13,904 [DEBUG] (Messenger.java:61) - --defineTimeOfDay() method begin--
+2016-10-08T11:59:13,904 [DEBUG] (Messenger.java:67) - ---defineTimeOfDay() method end---
+2016-10-08T11:59:13,905 [DEBUG] (Messenger.java:32) - Current time of day: evening
+2016-10-08T11:59:13,905 [DEBUG] (Messenger.java:34) - Got user's locale: en
+2016-10-08T11:59:13,905 [DEBUG] (Messenger.java:36) - Locale after validation: en
+2016-10-08T11:59:13,906 [DEBUG] (Messenger.java:40) - Connecting to message resource...
+2016-10-08T11:59:13,906 [DEBUG] (Messenger.java:43) - Connection succeeded!
+2016-10-08T11:59:13,906 [DEBUG] (Messenger.java:50) - Returned message: Good evening, World!
+2016-10-08T11:59:13,906 [DEBUG] (Messenger.java:51) - ----getMessage() method end----
+
+2016-10-08T11:59:13,907 [DEBUG] (Messenger.java:28) - ---getMessage() method begin---
+2016-10-08T11:59:13,907 [DEBUG] (Messenger.java:30) - Got current hour: 23
+2016-10-08T11:59:13,908 [DEBUG] (Messenger.java:61) - --defineTimeOfDay() method begin--
+2016-10-08T11:59:13,908 [DEBUG] (Messenger.java:67) - ---defineTimeOfDay() method end---
+2016-10-08T11:59:13,908 [DEBUG] (Messenger.java:32) - Current time of day: night
+2016-10-08T11:59:13,909 [DEBUG] (Messenger.java:34) - Got user's locale: en
+2016-10-08T11:59:13,909 [DEBUG] (Messenger.java:36) - Locale after validation: en
+2016-10-08T11:59:13,909 [DEBUG] (Messenger.java:40) - Connecting to message resource...
+2016-10-08T11:59:13,911 [DEBUG] (Messenger.java:43) - Connection succeeded!
+2016-10-08T11:59:13,911 [DEBUG] (Messenger.java:50) - Returned message: Good night, World!
+2016-10-08T11:59:13,911 [DEBUG] (Messenger.java:51) - ----getMessage() method end----
+
+2016-10-08T11:59:13,912 [DEBUG] (Messenger.java:28) - ---getMessage() method begin---
+2016-10-08T11:59:13,913 [DEBUG] (Messenger.java:30) - Got current hour: 19
+2016-10-08T11:59:13,913 [DEBUG] (Messenger.java:61) - --defineTimeOfDay() method begin--
+2016-10-08T11:59:13,915 [DEBUG] (Messenger.java:67) - ---defineTimeOfDay() method end---
+2016-10-08T11:59:13,915 [DEBUG] (Messenger.java:32) - Current time of day: evening
+2016-10-08T11:59:13,915 [DEBUG] (Messenger.java:34) - Got user's locale: fr
+2016-10-08T11:59:13,915 [DEBUG] (Messenger.java:36) - Locale after validation: en
+2016-10-08T11:59:13,916 [DEBUG] (Messenger.java:40) - Connecting to message resource...
+2016-10-08T11:59:13,916 [DEBUG] (Messenger.java:43) - Connection succeeded!
+2016-10-08T11:59:13,917 [DEBUG] (Messenger.java:50) - Returned message: Good evening, World!
+2016-10-08T11:59:13,917 [DEBUG] (Messenger.java:51) - ----getMessage() method end----
+
+2016-10-08T11:59:13,919 [DEBUG] (Messenger.java:28) - ---getMessage() method begin---
+2016-10-08T11:59:13,919 [DEBUG] (Messenger.java:30) - Got current hour: 19
+2016-10-08T11:59:13,919 [DEBUG] (Messenger.java:61) - --defineTimeOfDay() method begin--
+2016-10-08T11:59:13,919 [DEBUG] (Messenger.java:67) - ---defineTimeOfDay() method end---
+2016-10-08T11:59:13,920 [DEBUG] (Messenger.java:32) - Current time of day: evening
+2016-10-08T11:59:13,921 [DEBUG] (Messenger.java:34) - Got user's locale: de
+2016-10-08T11:59:13,921 [DEBUG] (Messenger.java:36) - Locale after validation: en
+2016-10-08T11:59:13,921 [DEBUG] (Messenger.java:40) - Connecting to message resource...
+2016-10-08T11:59:13,922 [DEBUG] (Messenger.java:43) - Connection succeeded!
+2016-10-08T11:59:13,922 [DEBUG] (Messenger.java:50) - Returned message: Good evening, World!
+2016-10-08T11:59:13,922 [DEBUG] (Messenger.java:51) - ----getMessage() method end----
+
+2016-10-08T11:59:13,925 [DEBUG] (Messenger.java:28) - ---getMessage() method begin---
+2016-10-08T11:59:13,926 [DEBUG] (Messenger.java:30) - Got current hour: 12
+2016-10-08T11:59:13,926 [DEBUG] (Messenger.java:61) - --defineTimeOfDay() method begin--
+2016-10-08T11:59:13,926 [DEBUG] (Messenger.java:67) - ---defineTimeOfDay() method end---
+2016-10-08T11:59:13,927 [DEBUG] (Messenger.java:32) - Current time of day: day
+2016-10-08T11:59:13,927 [DEBUG] (Messenger.java:34) - Got user's locale: ru
+2016-10-08T11:59:13,928 [DEBUG] (Messenger.java:36) - Locale after validation: ru
+2016-10-08T11:59:13,928 [DEBUG] (Messenger.java:40) - Connecting to message resource...
+2016-10-08T11:59:13,929 [DEBUG] (Messenger.java:43) - Connection succeeded!
+2016-10-08T11:59:13,930 [DEBUG] (Messenger.java:50) - Returned message: Добрый день, Мир!
+2016-10-08T11:59:13,930 [DEBUG] (Messenger.java:51) - ----getMessage() method end----
+
+2016-10-08T11:59:13,931 [DEBUG] (Messenger.java:28) - ---getMessage() method begin---
+2016-10-08T11:59:13,931 [DEBUG] (Messenger.java:30) - Got current hour: 18
+2016-10-08T11:59:13,931 [DEBUG] (Messenger.java:61) - --defineTimeOfDay() method begin--
+2016-10-08T11:59:13,931 [DEBUG] (Messenger.java:67) - ---defineTimeOfDay() method end---
+2016-10-08T11:59:13,931 [DEBUG] (Messenger.java:32) - Current time of day: day
+2016-10-08T11:59:13,932 [DEBUG] (Messenger.java:34) - Got user's locale: ru
+2016-10-08T11:59:13,932 [DEBUG] (Messenger.java:36) - Locale after validation: ru
+2016-10-08T11:59:13,932 [DEBUG] (Messenger.java:40) - Connecting to message resource...
+2016-10-08T11:59:13,933 [DEBUG] (Messenger.java:43) - Connection succeeded!
+2016-10-08T11:59:13,934 [DEBUG] (Messenger.java:50) - Returned message: Добрый день, Мир!
+2016-10-08T11:59:13,935 [DEBUG] (Messenger.java:51) - ----getMessage() method end----
+
+2016-10-08T11:59:13,935 [DEBUG] (Messenger.java:28) - ---getMessage() method begin---
+2016-10-08T11:59:13,936 [DEBUG] (Messenger.java:30) - Got current hour: 19
+2016-10-08T11:59:13,936 [DEBUG] (Messenger.java:61) - --defineTimeOfDay() method begin--
+2016-10-08T11:59:13,936 [DEBUG] (Messenger.java:67) - ---defineTimeOfDay() method end---
+2016-10-08T11:59:13,937 [DEBUG] (Messenger.java:32) - Current time of day: evening
+2016-10-08T11:59:13,937 [DEBUG] (Messenger.java:34) - Got user's locale: ru
+2016-10-08T11:59:13,938 [DEBUG] (Messenger.java:36) - Locale after validation: ru
+2016-10-08T11:59:13,938 [DEBUG] (Messenger.java:40) - Connecting to message resource...
+2016-10-08T11:59:13,938 [DEBUG] (Messenger.java:43) - Connection succeeded!
+2016-10-08T11:59:13,940 [DEBUG] (Messenger.java:50) - Returned message: Добрый вечер, Мир!
+2016-10-08T11:59:13,940 [DEBUG] (Messenger.java:51) - ----getMessage() method end----
+
+2016-10-08T11:59:13,949 [DEBUG] (Messenger.java:28) - ---getMessage() method begin---
+2016-10-08T11:59:13,949 [DEBUG] (Messenger.java:30) - Got current hour: 21
+2016-10-08T11:59:13,949 [DEBUG] (Messenger.java:61) - --defineTimeOfDay() method begin--
+2016-10-08T11:59:13,950 [DEBUG] (Messenger.java:67) - ---defineTimeOfDay() method end---
+2016-10-08T11:59:13,951 [DEBUG] (Messenger.java:32) - Current time of day: evening
+2016-10-08T11:59:13,951 [DEBUG] (Messenger.java:34) - Got user's locale: ru
+2016-10-08T11:59:13,951 [DEBUG] (Messenger.java:36) - Locale after validation: ru
+2016-10-08T11:59:13,951 [DEBUG] (Messenger.java:40) - Connecting to message resource...
+2016-10-08T11:59:13,952 [DEBUG] (Messenger.java:43) - Connection succeeded!
+2016-10-08T11:59:13,952 [DEBUG] (Messenger.java:50) - Returned message: Добрый вечер, Мир!
+2016-10-08T11:59:13,952 [DEBUG] (Messenger.java:51) - ----getMessage() method end----
+
+2016-10-08T11:59:13,959 [DEBUG] (Messenger.java:28) - ---getMessage() method begin---
+2016-10-08T11:59:13,960 [DEBUG] (Messenger.java:30) - Got current hour: 0
+2016-10-08T11:59:13,960 [DEBUG] (Messenger.java:61) - --defineTimeOfDay() method begin--
+2016-10-08T11:59:13,962 [DEBUG] (Messenger.java:67) - ---defineTimeOfDay() method end---
+2016-10-08T11:59:13,962 [DEBUG] (Messenger.java:32) - Current time of day: night
+2016-10-08T11:59:13,963 [DEBUG] (Messenger.java:34) - Got user's locale: ru
+2016-10-08T11:59:13,964 [DEBUG] (Messenger.java:36) - Locale after validation: ru
+2016-10-08T11:59:13,967 [DEBUG] (Messenger.java:40) - Connecting to message resource...
+2016-10-08T11:59:13,967 [DEBUG] (Messenger.java:43) - Connection succeeded!
+2016-10-08T11:59:13,967 [DEBUG] (Messenger.java:50) - Returned message: Спокойной ночи, Мир!
+2016-10-08T11:59:13,968 [DEBUG] (Messenger.java:51) - ----getMessage() method end----
+
+2016-10-08T11:59:13,969 [DEBUG] (Messenger.java:28) - ---getMessage() method begin---
+2016-10-08T11:59:13,969 [DEBUG] (Messenger.java:30) - Got current hour: 0
+2016-10-08T11:59:13,970 [DEBUG] (Messenger.java:61) - --defineTimeOfDay() method begin--
+2016-10-08T11:59:13,970 [DEBUG] (Messenger.java:67) - ---defineTimeOfDay() method end---
+2016-10-08T11:59:13,970 [DEBUG] (Messenger.java:32) - Current time of day: night
+2016-10-08T11:59:13,970 [DEBUG] (Messenger.java:34) - Got user's locale: en
+2016-10-08T11:59:13,974 [DEBUG] (Messenger.java:36) - Locale after validation: en
+2016-10-08T11:59:13,974 [DEBUG] (Messenger.java:40) - Connecting to message resource...
+2016-10-08T11:59:13,980 [DEBUG] (Messenger.java:43) - Connection succeeded!
+2016-10-08T11:59:13,981 [DEBUG] (Messenger.java:50) - Returned message: Good night, World!
+2016-10-08T11:59:13,981 [DEBUG] (Messenger.java:51) - ----getMessage() method end----
+
+2016-10-08T11:59:13,982 [DEBUG] (Messenger.java:28) - ---getMessage() method begin---
+2016-10-08T11:59:13,982 [DEBUG] (Messenger.java:30) - Got current hour: 4
+2016-10-08T11:59:13,983 [DEBUG] (Messenger.java:61) - --defineTimeOfDay() method begin--
+2016-10-08T11:59:13,983 [DEBUG] (Messenger.java:67) - ---defineTimeOfDay() method end---
+2016-10-08T11:59:13,983 [DEBUG] (Messenger.java:32) - Current time of day: night
+2016-10-08T11:59:13,983 [DEBUG] (Messenger.java:34) - Got user's locale: en
+2016-10-08T11:59:13,984 [DEBUG] (Messenger.java:36) - Locale after validation: en
+2016-10-08T11:59:13,984 [DEBUG] (Messenger.java:40) - Connecting to message resource...
+2016-10-08T11:59:13,984 [DEBUG] (Messenger.java:43) - Connection succeeded!
+2016-10-08T11:59:13,984 [DEBUG] (Messenger.java:50) - Returned message: Good night, World!
+2016-10-08T11:59:13,985 [DEBUG] (Messenger.java:51) - ----getMessage() method end----
+
+2016-10-08T11:59:13,996 [DEBUG] (Messenger.java:28) - ---getMessage() method begin---
+2016-10-08T11:59:13,996 [DEBUG] (Messenger.java:30) - Got current hour: 6
+2016-10-08T11:59:13,997 [DEBUG] (Messenger.java:61) - --defineTimeOfDay() method begin--
+2016-10-08T11:59:13,997 [DEBUG] (Messenger.java:67) - ---defineTimeOfDay() method end---
+2016-10-08T11:59:13,997 [DEBUG] (Messenger.java:32) - Current time of day: morning
+2016-10-08T11:59:13,997 [DEBUG] (Messenger.java:34) - Got user's locale: en
+2016-10-08T11:59:13,998 [DEBUG] (Messenger.java:36) - Locale after validation: en
+2016-10-08T11:59:13,998 [DEBUG] (Messenger.java:40) - Connecting to message resource...
+2016-10-08T11:59:13,998 [DEBUG] (Messenger.java:43) - Connection succeeded!
+2016-10-08T11:59:13,999 [DEBUG] (Messenger.java:50) - Returned message: Good morning, World!
+2016-10-08T11:59:13,999 [DEBUG] (Messenger.java:51) - ----getMessage() method end----
+
+2016-10-08T11:59:14,000 [DEBUG] (Messenger.java:28) - ---getMessage() method begin---
+2016-10-08T11:59:14,011 [DEBUG] (Messenger.java:30) - Got current hour: 9
+2016-10-08T11:59:14,011 [DEBUG] (Messenger.java:61) - --defineTimeOfDay() method begin--
+2016-10-08T11:59:14,012 [DEBUG] (Messenger.java:67) - ---defineTimeOfDay() method end---
+2016-10-08T11:59:14,012 [DEBUG] (Messenger.java:32) - Current time of day: day
+2016-10-08T11:59:14,012 [DEBUG] (Messenger.java:34) - Got user's locale: en
+2016-10-08T11:59:14,013 [DEBUG] (Messenger.java:36) - Locale after validation: en
+2016-10-08T11:59:14,013 [DEBUG] (Messenger.java:40) - Connecting to message resource...
+2016-10-08T11:59:14,013 [DEBUG] (Messenger.java:43) - Connection succeeded!
+2016-10-08T11:59:14,013 [DEBUG] (Messenger.java:50) - Returned message: Good day, World!
+2016-10-08T11:59:14,014 [DEBUG] (Messenger.java:51) - ----getMessage() method end----
+
+2016-10-08T11:59:14,014 [DEBUG] (Messenger.java:28) - ---getMessage() method begin---
+2016-10-08T11:59:14,014 [DEBUG] (Messenger.java:30) - Got current hour: 8
+2016-10-08T11:59:14,015 [DEBUG] (Messenger.java:61) - --defineTimeOfDay() method begin--
+2016-10-08T11:59:14,015 [DEBUG] (Messenger.java:67) - ---defineTimeOfDay() method end---
+2016-10-08T11:59:14,015 [DEBUG] (Messenger.java:32) - Current time of day: morning
+2016-10-08T11:59:14,015 [DEBUG] (Messenger.java:34) - Got user's locale: fr
+2016-10-08T11:59:14,016 [DEBUG] (Messenger.java:36) - Locale after validation: en
+2016-10-08T11:59:14,016 [DEBUG] (Messenger.java:40) - Connecting to message resource...
+2016-10-08T11:59:14,017 [DEBUG] (Messenger.java:43) - Connection succeeded!
+2016-10-08T11:59:14,017 [DEBUG] (Messenger.java:50) - Returned message: Good morning, World!
+2016-10-08T11:59:14,017 [DEBUG] (Messenger.java:51) - ----getMessage() method end----
+
+2016-10-08T11:59:14,018 [DEBUG] (Messenger.java:28) - ---getMessage() method begin---
+2016-10-08T11:59:14,018 [DEBUG] (Messenger.java:30) - Got current hour: 0
+2016-10-08T11:59:14,019 [DEBUG] (Messenger.java:61) - --defineTimeOfDay() method begin--
+2016-10-08T11:59:14,019 [DEBUG] (Messenger.java:67) - ---defineTimeOfDay() method end---
+2016-10-08T11:59:14,019 [DEBUG] (Messenger.java:32) - Current time of day: night
+2016-10-08T11:59:14,019 [DEBUG] (Messenger.java:34) - Got user's locale: de
+2016-10-08T11:59:14,020 [DEBUG] (Messenger.java:36) - Locale after validation: en
+2016-10-08T11:59:14,020 [DEBUG] (Messenger.java:40) - Connecting to message resource...
+2016-10-08T11:59:14,020 [DEBUG] (Messenger.java:43) - Connection succeeded!
+2016-10-08T11:59:14,035 [DEBUG] (Messenger.java:50) - Returned message: Good night, World!
+2016-10-08T11:59:14,036 [DEBUG] (Messenger.java:51) - ----getMessage() method end----
+
+2016-10-08T11:59:14,036 [DEBUG] (Messenger.java:28) - ---getMessage() method begin---
+2016-10-08T11:59:14,037 [DEBUG] (Messenger.java:30) - Got current hour: 0
+2016-10-08T11:59:14,037 [DEBUG] (Messenger.java:61) - --defineTimeOfDay() method begin--
+2016-10-08T11:59:14,037 [DEBUG] (Messenger.java:67) - ---defineTimeOfDay() method end---
+2016-10-08T11:59:14,037 [DEBUG] (Messenger.java:32) - Current time of day: night
+2016-10-08T11:59:14,038 [DEBUG] (Messenger.java:34) - Got user's locale: de
+2016-10-08T11:59:14,038 [DEBUG] (Messenger.java:36) - Locale after validation: en
+2016-10-08T11:59:14,038 [DEBUG] (Messenger.java:40) - Connecting to message resource...
+2016-10-08T11:59:14,038 [DEBUG] (Messenger.java:43) - Connection succeeded!
+2016-10-08T11:59:14,039 [DEBUG] (Messenger.java:50) - Returned message: Good night, World!
+2016-10-08T11:59:14,039 [DEBUG] (Messenger.java:51) - ----getMessage() method end----
+
+2016-10-08T11:59:14,039 [DEBUG] (Messenger.java:28) - ---getMessage() method begin---
+2016-10-08T11:59:14,040 [DEBUG] (Messenger.java:30) - Got current hour: 0
+2016-10-08T11:59:14,040 [DEBUG] (Messenger.java:61) - --defineTimeOfDay() method begin--
+2016-10-08T11:59:14,040 [DEBUG] (Messenger.java:67) - ---defineTimeOfDay() method end---
+2016-10-08T11:59:14,041 [DEBUG] (Messenger.java:32) - Current time of day: night
+2016-10-08T11:59:14,041 [DEBUG] (Messenger.java:34) - Got user's locale: ru
+2016-10-08T11:59:14,041 [DEBUG] (Messenger.java:36) - Locale after validation: ru
+2016-10-08T11:59:14,041 [DEBUG] (Messenger.java:40) - Connecting to message resource...
+2016-10-08T11:59:14,041 [DEBUG] (Messenger.java:43) - Connection succeeded!
+2016-10-08T11:59:14,042 [DEBUG] (Messenger.java:50) - Returned message: Спокойной ночи, Мир!
+2016-10-08T11:59:14,042 [DEBUG] (Messenger.java:51) - ----getMessage() method end----
+
+2016-10-08T11:59:14,043 [DEBUG] (Messenger.java:28) - ---getMessage() method begin---
+2016-10-08T11:59:14,043 [DEBUG] (Messenger.java:30) - Got current hour: 2
+2016-10-08T11:59:14,043 [DEBUG] (Messenger.java:61) - --defineTimeOfDay() method begin--
+2016-10-08T11:59:14,043 [DEBUG] (Messenger.java:67) - ---defineTimeOfDay() method end---
+2016-10-08T11:59:14,043 [DEBUG] (Messenger.java:32) - Current time of day: night
+2016-10-08T11:59:14,044 [DEBUG] (Messenger.java:34) - Got user's locale: ru
+2016-10-08T11:59:14,044 [DEBUG] (Messenger.java:36) - Locale after validation: ru
+2016-10-08T11:59:14,044 [DEBUG] (Messenger.java:40) - Connecting to message resource...
+2016-10-08T11:59:14,044 [DEBUG] (Messenger.java:43) - Connection succeeded!
+2016-10-08T11:59:14,045 [DEBUG] (Messenger.java:50) - Returned message: Спокойной ночи, Мир!
+2016-10-08T11:59:14,045 [DEBUG] (Messenger.java:51) - ----getMessage() method end----
+
+2016-10-08T11:59:14,045 [DEBUG] (Messenger.java:28) - ---getMessage() method begin---
+2016-10-08T11:59:14,046 [DEBUG] (Messenger.java:30) - Got current hour: 6
+2016-10-08T11:59:14,046 [DEBUG] (Messenger.java:61) - --defineTimeOfDay() method begin--
+2016-10-08T11:59:14,046 [DEBUG] (Messenger.java:67) - ---defineTimeOfDay() method end---
+2016-10-08T11:59:14,049 [DEBUG] (Messenger.java:32) - Current time of day: morning
+2016-10-08T11:59:14,055 [DEBUG] (Messenger.java:34) - Got user's locale: ru
+2016-10-08T11:59:14,056 [DEBUG] (Messenger.java:36) - Locale after validation: ru
+2016-10-08T11:59:14,057 [DEBUG] (Messenger.java:40) - Connecting to message resource...
+2016-10-08T11:59:14,057 [DEBUG] (Messenger.java:43) - Connection succeeded!
+2016-10-08T11:59:14,060 [DEBUG] (Messenger.java:50) - Returned message: Доброе утро, Мир!
+2016-10-08T11:59:14,060 [DEBUG] (Messenger.java:51) - ----getMessage() method end----
+
+2016-10-08T11:59:14,061 [DEBUG] (Messenger.java:28) - ---getMessage() method begin---
+2016-10-08T11:59:14,062 [DEBUG] (Messenger.java:30) - Got current hour: 8
+2016-10-08T11:59:14,062 [DEBUG] (Messenger.java:61) - --defineTimeOfDay() method begin--
+2016-10-08T11:59:14,062 [DEBUG] (Messenger.java:67) - ---defineTimeOfDay() method end---
+2016-10-08T11:59:14,062 [DEBUG] (Messenger.java:32) - Current time of day: morning
+2016-10-08T11:59:14,063 [DEBUG] (Messenger.java:34) - Got user's locale: ru
+2016-10-08T11:59:14,063 [DEBUG] (Messenger.java:36) - Locale after validation: ru
+2016-10-08T11:59:14,063 [DEBUG] (Messenger.java:40) - Connecting to message resource...
+2016-10-08T11:59:14,063 [DEBUG] (Messenger.java:43) - Connection succeeded!
+2016-10-08T11:59:14,064 [DEBUG] (Messenger.java:50) - Returned message: Доброе утро, Мир!
+2016-10-08T11:59:14,064 [DEBUG] (Messenger.java:51) - ----getMessage() method end----
+
+2016-10-08T11:59:14,066 [DEBUG] (Messenger.java:28) - ---getMessage() method begin---
+2016-10-08T11:59:14,066 [DEBUG] (Messenger.java:30) - Got current hour: 9
+2016-10-08T11:59:14,067 [DEBUG] (Messenger.java:61) - --defineTimeOfDay() method begin--
+2016-10-08T11:59:14,067 [DEBUG] (Messenger.java:67) - ---defineTimeOfDay() method end---
+2016-10-08T11:59:14,067 [DEBUG] (Messenger.java:32) - Current time of day: day
+2016-10-08T11:59:14,067 [DEBUG] (Messenger.java:34) - Got user's locale: ru
+2016-10-08T11:59:14,068 [DEBUG] (Messenger.java:36) - Locale after validation: ru
+2016-10-08T11:59:14,068 [DEBUG] (Messenger.java:40) - Connecting to message resource...
+2016-10-08T11:59:14,068 [DEBUG] (Messenger.java:43) - Connection succeeded!
+2016-10-08T11:59:14,069 [DEBUG] (Messenger.java:50) - Returned message: Добрый день, Мир!
+2016-10-08T11:59:14,069 [DEBUG] (Messenger.java:51) - ----getMessage() method end----
+
+2016-10-08T11:59:14,070 [DEBUG] (Messenger.java:28) - ---getMessage() method begin---
+2016-10-08T11:59:14,070 [DEBUG] (Messenger.java:30) - Got current hour: 100
+2016-10-08T11:59:14,070 [DEBUG] (Messenger.java:61) - --defineTimeOfDay() method begin--
+2016-10-08T11:59:14,070 [DEBUG] (Messenger.java:67) - ---defineTimeOfDay() method end---
+2016-10-08T11:59:14,076 [DEBUG] (Messenger.java:32) - Current time of day: night
+2016-10-08T11:59:14,076 [DEBUG] (Messenger.java:34) - Got user's locale: en
+2016-10-08T11:59:14,077 [DEBUG] (Messenger.java:36) - Locale after validation: en
+2016-10-08T11:59:14,077 [DEBUG] (Messenger.java:40) - Connecting to message resource...
+2016-10-08T11:59:14,077 [DEBUG] (Messenger.java:43) - Connection succeeded!
+2016-10-08T11:59:14,077 [DEBUG] (Messenger.java:50) - Returned message: Good night, World!
+2016-10-08T11:59:14,080 [DEBUG] (Messenger.java:51) - ----getMessage() method end----
+
+2016-10-08T11:59:14,080 [DEBUG] (Messenger.java:28) - ---getMessage() method begin---
+2016-10-08T11:59:14,081 [DEBUG] (Messenger.java:30) - Got current hour: -100
+2016-10-08T11:59:14,081 [DEBUG] (Messenger.java:61) - --defineTimeOfDay() method begin--
+2016-10-08T11:59:14,081 [DEBUG] (Messenger.java:67) - ---defineTimeOfDay() method end---
+2016-10-08T11:59:14,082 [DEBUG] (Messenger.java:32) - Current time of day: night
+2016-10-08T11:59:14,082 [DEBUG] (Messenger.java:34) - Got user's locale: en
+2016-10-08T11:59:14,082 [DEBUG] (Messenger.java:36) - Locale after validation: en
+2016-10-08T11:59:14,083 [DEBUG] (Messenger.java:40) - Connecting to message resource...
+2016-10-08T11:59:14,083 [DEBUG] (Messenger.java:43) - Connection succeeded!
+2016-10-08T11:59:14,083 [DEBUG] (Messenger.java:50) - Returned message: Good night, World!
+2016-10-08T11:59:14,083 [DEBUG] (Messenger.java:51) - ----getMessage() method end----
+
+2016-10-08T11:59:14,084 [DEBUG] (Messenger.java:28) - ---getMessage() method begin---
+2016-10-08T11:59:14,084 [DEBUG] (Messenger.java:30) - Got current hour: 9
+2016-10-08T11:59:14,084 [DEBUG] (Messenger.java:61) - --defineTimeOfDay() method begin--
+2016-10-08T11:59:14,085 [DEBUG] (Messenger.java:67) - ---defineTimeOfDay() method end---
+2016-10-08T11:59:14,085 [DEBUG] (Messenger.java:32) - Current time of day: day
+2016-10-08T11:59:14,087 [DEBUG] (Messenger.java:34) - Got user's locale: null
+2016-10-08T11:59:14,087 [DEBUG] (Messenger.java:36) - Locale after validation: en
+2016-10-08T11:59:14,087 [DEBUG] (Messenger.java:40) - Connecting to message resource...
+2016-10-08T11:59:14,087 [DEBUG] (Messenger.java:43) - Connection succeeded!
+2016-10-08T11:59:14,088 [DEBUG] (Messenger.java:50) - Returned message: Good day, World!
+2016-10-08T11:59:14,088 [DEBUG] (Messenger.java:51) - ----getMessage() method end----
+
+2016-10-08T11:59:14,089 [DEBUG] (Messenger.java:28) - ---getMessage() method begin---
+2016-10-08T11:59:14,089 [DEBUG] (Messenger.java:30) - Got current hour: 50
+2016-10-08T11:59:14,089 [DEBUG] (Messenger.java:61) - --defineTimeOfDay() method begin--
+2016-10-08T11:59:14,089 [DEBUG] (Messenger.java:67) - ---defineTimeOfDay() method end---
+2016-10-08T11:59:14,090 [DEBUG] (Messenger.java:32) - Current time of day: night
+2016-10-08T11:59:14,090 [DEBUG] (Messenger.java:34) - Got user's locale: ru
+2016-10-08T11:59:14,090 [DEBUG] (Messenger.java:36) - Locale after validation: ru
+2016-10-08T11:59:14,090 [DEBUG] (Messenger.java:40) - Connecting to message resource...
+2016-10-08T11:59:14,090 [DEBUG] (Messenger.java:43) - Connection succeeded!
+2016-10-08T11:59:14,091 [DEBUG] (Messenger.java:50) - Returned message: Спокойной ночи, Мир!
+2016-10-08T11:59:14,091 [DEBUG] (Messenger.java:51) - ----getMessage() method end----
+
+2016-10-08T11:59:14,092 [DEBUG] (Messenger.java:28) - ---getMessage() method begin---
+2016-10-08T11:59:14,093 [DEBUG] (Messenger.java:30) - Got current hour: -50
+2016-10-08T11:59:14,093 [DEBUG] (Messenger.java:61) - --defineTimeOfDay() method begin--
+2016-10-08T11:59:14,093 [DEBUG] (Messenger.java:67) - ---defineTimeOfDay() method end---
+2016-10-08T11:59:14,093 [DEBUG] (Messenger.java:32) - Current time of day: night
+2016-10-08T11:59:14,094 [DEBUG] (Messenger.java:34) - Got user's locale: ru
+2016-10-08T11:59:14,094 [DEBUG] (Messenger.java:36) - Locale after validation: ru
+2016-10-08T11:59:14,094 [DEBUG] (Messenger.java:40) - Connecting to message resource...
+2016-10-08T11:59:14,094 [DEBUG] (Messenger.java:43) - Connection succeeded!
+2016-10-08T11:59:14,094 [DEBUG] (Messenger.java:50) - Returned message: Спокойной ночи, Мир!
+2016-10-08T11:59:14,095 [DEBUG] (Messenger.java:51) - ----getMessage() method end----
+
+2016-10-08T11:59:14,095 [DEBUG] (Messenger.java:28) - ---getMessage() method begin---
+2016-10-08T11:59:14,095 [DEBUG] (Messenger.java:30) - Got current hour: 19
+2016-10-08T11:59:14,095 [DEBUG] (Messenger.java:61) - --defineTimeOfDay() method begin--
+2016-10-08T11:59:14,096 [DEBUG] (Messenger.java:67) - ---defineTimeOfDay() method end---
+2016-10-08T11:59:14,096 [DEBUG] (Messenger.java:32) - Current time of day: evening
+2016-10-08T11:59:14,096 [DEBUG] (Messenger.java:34) - Got user's locale: null
+2016-10-08T11:59:14,097 [DEBUG] (Messenger.java:36) - Locale after validation: en
+2016-10-08T11:59:14,097 [DEBUG] (Messenger.java:40) - Connecting to message resource...
+2016-10-08T11:59:14,097 [DEBUG] (Messenger.java:43) - Connection succeeded!
+2016-10-08T11:59:14,097 [DEBUG] (Messenger.java:50) - Returned message: Good evening, World!
+2016-10-08T11:59:14,097 [DEBUG] (Messenger.java:51) - ----getMessage() method end----
+
+2016-10-08T11:59:14,098 [DEBUG] (Messenger.java:28) - ---getMessage() method begin---
+2016-10-08T11:59:14,099 [DEBUG] (Messenger.java:30) - Got current hour: 1000
+2016-10-08T11:59:14,099 [DEBUG] (Messenger.java:61) - --defineTimeOfDay() method begin--
+2016-10-08T11:59:14,100 [DEBUG] (Messenger.java:67) - ---defineTimeOfDay() method end---
+2016-10-08T11:59:14,100 [DEBUG] (Messenger.java:32) - Current time of day: night
+2016-10-08T11:59:14,101 [DEBUG] (Messenger.java:34) - Got user's locale: de
+2016-10-08T11:59:14,101 [DEBUG] (Messenger.java:36) - Locale after validation: en
+2016-10-08T11:59:14,101 [DEBUG] (Messenger.java:40) - Connecting to message resource...
+2016-10-08T11:59:14,105 [DEBUG] (Messenger.java:43) - Connection succeeded!
+2016-10-08T11:59:14,106 [DEBUG] (Messenger.java:50) - Returned message: Good night, World!
+2016-10-08T11:59:14,106 [DEBUG] (Messenger.java:51) - ----getMessage() method end----
+
+2016-10-08T12:19:38,511 [DEBUG] (Messenger.java:28) - ---getMessage() method begin---
+2016-10-08T12:19:38,513 [DEBUG] (Messenger.java:30) - Got current hour: -1000
+2016-10-08T12:19:38,513 [DEBUG] (Messenger.java:61) - --defineTimeOfDay() method begin--
+2016-10-08T12:19:38,514 [DEBUG] (Messenger.java:67) - ---defineTimeOfDay() method end---
+2016-10-08T12:19:38,514 [DEBUG] (Messenger.java:32) - Current time of day: night
+2016-10-08T12:19:38,514 [DEBUG] (Messenger.java:34) - Got user's locale: null
+2016-10-08T12:19:38,514 [DEBUG] (Messenger.java:36) - Locale after validation: en
+2016-10-08T12:19:38,515 [DEBUG] (Messenger.java:40) - Connecting to message resource...
+2016-10-08T12:19:38,516 [DEBUG] (Messenger.java:43) - Connection succeeded!
+2016-10-08T12:19:38,516 [DEBUG] (Messenger.java:50) - Returned message: Good night, World!
+2016-10-08T12:19:38,516 [DEBUG] (Messenger.java:51) - ----getMessage() method end----
+
+2016-10-08T12:19:38,521 [DEBUG] (Messenger.java:28) - ---getMessage() method begin---
+2016-10-08T12:19:38,522 [DEBUG] (Messenger.java:30) - Got current hour: 13
+2016-10-08T12:19:38,522 [DEBUG] (Messenger.java:61) - --defineTimeOfDay() method begin--
+2016-10-08T12:19:38,522 [DEBUG] (Messenger.java:67) - ---defineTimeOfDay() method end---
+2016-10-08T12:19:38,522 [DEBUG] (Messenger.java:32) - Current time of day: day
+2016-10-08T12:19:38,523 [DEBUG] (Messenger.java:34) - Got user's locale: en
+2016-10-08T12:19:38,523 [DEBUG] (Messenger.java:36) - Locale after validation: en
+2016-10-08T12:19:38,523 [DEBUG] (Messenger.java:40) - Connecting to message resource...
+2016-10-08T12:19:38,523 [DEBUG] (Messenger.java:43) - Connection succeeded!
+2016-10-08T12:19:38,524 [DEBUG] (Messenger.java:50) - Returned message: Good day, World!
+2016-10-08T12:19:38,524 [DEBUG] (Messenger.java:51) - ----getMessage() method end----
+
+2016-10-08T12:19:38,524 [DEBUG] (Messenger.java:28) - ---getMessage() method begin---
+2016-10-08T12:19:38,525 [DEBUG] (Messenger.java:30) - Got current hour: 17
+2016-10-08T12:19:38,525 [DEBUG] (Messenger.java:61) - --defineTimeOfDay() method begin--
+2016-10-08T12:19:38,526 [DEBUG] (Messenger.java:67) - ---defineTimeOfDay() method end---
+2016-10-08T12:19:38,526 [DEBUG] (Messenger.java:32) - Current time of day: day
+2016-10-08T12:19:38,526 [DEBUG] (Messenger.java:34) - Got user's locale: en
+2016-10-08T12:19:38,526 [DEBUG] (Messenger.java:36) - Locale after validation: en
+2016-10-08T12:19:38,526 [DEBUG] (Messenger.java:40) - Connecting to message resource...
+2016-10-08T12:19:38,527 [DEBUG] (Messenger.java:43) - Connection succeeded!
+2016-10-08T12:19:38,527 [DEBUG] (Messenger.java:50) - Returned message: Good day, World!
+2016-10-08T12:19:38,527 [DEBUG] (Messenger.java:51) - ----getMessage() method end----
+
+2016-10-08T12:19:38,528 [DEBUG] (Messenger.java:28) - ---getMessage() method begin---
+2016-10-08T12:19:38,528 [DEBUG] (Messenger.java:30) - Got current hour: 19
+2016-10-08T12:19:38,528 [DEBUG] (Messenger.java:61) - --defineTimeOfDay() method begin--
+2016-10-08T12:19:38,528 [DEBUG] (Messenger.java:67) - ---defineTimeOfDay() method end---
+2016-10-08T12:19:38,529 [DEBUG] (Messenger.java:32) - Current time of day: evening
+2016-10-08T12:19:38,529 [DEBUG] (Messenger.java:34) - Got user's locale: en
+2016-10-08T12:19:38,529 [DEBUG] (Messenger.java:36) - Locale after validation: en
+2016-10-08T12:19:38,529 [DEBUG] (Messenger.java:40) - Connecting to message resource...
+2016-10-08T12:19:38,529 [DEBUG] (Messenger.java:43) - Connection succeeded!
+2016-10-08T12:19:38,530 [DEBUG] (Messenger.java:50) - Returned message: Good evening, World!
+2016-10-08T12:19:38,530 [DEBUG] (Messenger.java:51) - ----getMessage() method end----
+
+2016-10-08T12:19:38,530 [DEBUG] (Messenger.java:28) - ---getMessage() method begin---
+2016-10-08T12:19:38,531 [DEBUG] (Messenger.java:30) - Got current hour: 23
+2016-10-08T12:19:38,531 [DEBUG] (Messenger.java:61) - --defineTimeOfDay() method begin--
+2016-10-08T12:19:38,531 [DEBUG] (Messenger.java:67) - ---defineTimeOfDay() method end---
+2016-10-08T12:19:38,531 [DEBUG] (Messenger.java:32) - Current time of day: night
+2016-10-08T12:19:38,532 [DEBUG] (Messenger.java:34) - Got user's locale: en
+2016-10-08T12:19:38,532 [DEBUG] (Messenger.java:36) - Locale after validation: en
+2016-10-08T12:19:38,532 [DEBUG] (Messenger.java:40) - Connecting to message resource...
+2016-10-08T12:19:38,532 [DEBUG] (Messenger.java:43) - Connection succeeded!
+2016-10-08T12:19:38,532 [DEBUG] (Messenger.java:50) - Returned message: Good night, World!
+2016-10-08T12:19:38,533 [DEBUG] (Messenger.java:51) - ----getMessage() method end----
+
+2016-10-08T12:19:38,533 [DEBUG] (Messenger.java:28) - ---getMessage() method begin---
+2016-10-08T12:19:38,534 [DEBUG] (Messenger.java:30) - Got current hour: 19
+2016-10-08T12:19:38,534 [DEBUG] (Messenger.java:61) - --defineTimeOfDay() method begin--
+2016-10-08T12:19:38,534 [DEBUG] (Messenger.java:67) - ---defineTimeOfDay() method end---
+2016-10-08T12:19:38,534 [DEBUG] (Messenger.java:32) - Current time of day: evening
+2016-10-08T12:19:38,535 [DEBUG] (Messenger.java:34) - Got user's locale: fr
+2016-10-08T12:19:38,535 [DEBUG] (Messenger.java:36) - Locale after validation: en
+2016-10-08T12:19:38,535 [DEBUG] (Messenger.java:40) - Connecting to message resource...
+2016-10-08T12:19:38,535 [DEBUG] (Messenger.java:43) - Connection succeeded!
+2016-10-08T12:19:38,535 [DEBUG] (Messenger.java:50) - Returned message: Good evening, World!
+2016-10-08T12:19:38,536 [DEBUG] (Messenger.java:51) - ----getMessage() method end----
+
+2016-10-08T12:19:38,537 [DEBUG] (Messenger.java:28) - ---getMessage() method begin---
+2016-10-08T12:19:38,537 [DEBUG] (Messenger.java:30) - Got current hour: 19
+2016-10-08T12:19:38,537 [DEBUG] (Messenger.java:61) - --defineTimeOfDay() method begin--
+2016-10-08T12:19:38,537 [DEBUG] (Messenger.java:67) - ---defineTimeOfDay() method end---
+2016-10-08T12:19:38,538 [DEBUG] (Messenger.java:32) - Current time of day: evening
+2016-10-08T12:19:38,538 [DEBUG] (Messenger.java:34) - Got user's locale: de
+2016-10-08T12:19:38,538 [DEBUG] (Messenger.java:36) - Locale after validation: en
+2016-10-08T12:19:38,538 [DEBUG] (Messenger.java:40) - Connecting to message resource...
+2016-10-08T12:19:38,538 [DEBUG] (Messenger.java:43) - Connection succeeded!
+2016-10-08T12:19:38,539 [DEBUG] (Messenger.java:50) - Returned message: Good evening, World!
+2016-10-08T12:19:38,539 [DEBUG] (Messenger.java:51) - ----getMessage() method end----
+
+2016-10-08T12:19:38,541 [DEBUG] (Messenger.java:28) - ---getMessage() method begin---
+2016-10-08T12:19:38,541 [DEBUG] (Messenger.java:30) - Got current hour: 12
+2016-10-08T12:19:38,541 [DEBUG] (Messenger.java:61) - --defineTimeOfDay() method begin--
+2016-10-08T12:19:38,541 [DEBUG] (Messenger.java:67) - ---defineTimeOfDay() method end---
+2016-10-08T12:19:38,541 [DEBUG] (Messenger.java:32) - Current time of day: day
+2016-10-08T12:19:38,541 [DEBUG] (Messenger.java:34) - Got user's locale: ru
+2016-10-08T12:19:38,541 [DEBUG] (Messenger.java:36) - Locale after validation: ru
+2016-10-08T12:19:38,542 [DEBUG] (Messenger.java:40) - Connecting to message resource...
+2016-10-08T12:19:38,542 [DEBUG] (Messenger.java:43) - Connection succeeded!
+2016-10-08T12:19:38,542 [DEBUG] (Messenger.java:50) - Returned message: Добрый день, Мир!
+2016-10-08T12:19:38,543 [DEBUG] (Messenger.java:51) - ----getMessage() method end----
+
+2016-10-08T12:19:38,544 [DEBUG] (Messenger.java:28) - ---getMessage() method begin---
+2016-10-08T12:19:38,544 [DEBUG] (Messenger.java:30) - Got current hour: 18
+2016-10-08T12:19:38,544 [DEBUG] (Messenger.java:61) - --defineTimeOfDay() method begin--
+2016-10-08T12:19:38,544 [DEBUG] (Messenger.java:67) - ---defineTimeOfDay() method end---
+2016-10-08T12:19:38,544 [DEBUG] (Messenger.java:32) - Current time of day: day
+2016-10-08T12:19:38,545 [DEBUG] (Messenger.java:34) - Got user's locale: ru
+2016-10-08T12:19:38,545 [DEBUG] (Messenger.java:36) - Locale after validation: ru
+2016-10-08T12:19:38,545 [DEBUG] (Messenger.java:40) - Connecting to message resource...
+2016-10-08T12:19:38,545 [DEBUG] (Messenger.java:43) - Connection succeeded!
+2016-10-08T12:19:38,545 [DEBUG] (Messenger.java:50) - Returned message: Добрый день, Мир!
+2016-10-08T12:19:38,546 [DEBUG] (Messenger.java:51) - ----getMessage() method end----
+
+2016-10-08T12:19:38,548 [DEBUG] (Messenger.java:28) - ---getMessage() method begin---
+2016-10-08T12:19:38,548 [DEBUG] (Messenger.java:30) - Got current hour: 19
+2016-10-08T12:19:38,548 [DEBUG] (Messenger.java:61) - --defineTimeOfDay() method begin--
+2016-10-08T12:19:38,549 [DEBUG] (Messenger.java:67) - ---defineTimeOfDay() method end---
+2016-10-08T12:19:38,549 [DEBUG] (Messenger.java:32) - Current time of day: evening
+2016-10-08T12:19:38,549 [DEBUG] (Messenger.java:34) - Got user's locale: ru
+2016-10-08T12:19:38,549 [DEBUG] (Messenger.java:36) - Locale after validation: ru
+2016-10-08T12:19:38,549 [DEBUG] (Messenger.java:40) - Connecting to message resource...
+2016-10-08T12:19:38,549 [DEBUG] (Messenger.java:43) - Connection succeeded!
+2016-10-08T12:19:38,550 [DEBUG] (Messenger.java:50) - Returned message: Добрый вечер, Мир!
+2016-10-08T12:19:38,550 [DEBUG] (Messenger.java:51) - ----getMessage() method end----
+
+2016-10-08T12:19:38,550 [DEBUG] (Messenger.java:28) - ---getMessage() method begin---
+2016-10-08T12:19:38,551 [DEBUG] (Messenger.java:30) - Got current hour: 21
+2016-10-08T12:19:38,551 [DEBUG] (Messenger.java:61) - --defineTimeOfDay() method begin--
+2016-10-08T12:19:38,551 [DEBUG] (Messenger.java:67) - ---defineTimeOfDay() method end---
+2016-10-08T12:19:38,551 [DEBUG] (Messenger.java:32) - Current time of day: evening
+2016-10-08T12:19:38,551 [DEBUG] (Messenger.java:34) - Got user's locale: ru
+2016-10-08T12:19:38,551 [DEBUG] (Messenger.java:36) - Locale after validation: ru
+2016-10-08T12:19:38,552 [DEBUG] (Messenger.java:40) - Connecting to message resource...
+2016-10-08T12:19:38,552 [DEBUG] (Messenger.java:43) - Connection succeeded!
+2016-10-08T12:19:38,552 [DEBUG] (Messenger.java:50) - Returned message: Добрый вечер, Мир!
+2016-10-08T12:19:38,552 [DEBUG] (Messenger.java:51) - ----getMessage() method end----
+
+2016-10-08T12:19:38,553 [DEBUG] (Messenger.java:28) - ---getMessage() method begin---
+2016-10-08T12:19:38,554 [DEBUG] (Messenger.java:30) - Got current hour: 0
+2016-10-08T12:19:38,554 [DEBUG] (Messenger.java:61) - --defineTimeOfDay() method begin--
+2016-10-08T12:19:38,554 [DEBUG] (Messenger.java:67) - ---defineTimeOfDay() method end---
+2016-10-08T12:19:38,554 [DEBUG] (Messenger.java:32) - Current time of day: night
+2016-10-08T12:19:38,554 [DEBUG] (Messenger.java:34) - Got user's locale: ru
+2016-10-08T12:19:38,555 [DEBUG] (Messenger.java:36) - Locale after validation: ru
+2016-10-08T12:19:38,555 [DEBUG] (Messenger.java:40) - Connecting to message resource...
+2016-10-08T12:19:38,555 [DEBUG] (Messenger.java:43) - Connection succeeded!
+2016-10-08T12:19:38,555 [DEBUG] (Messenger.java:50) - Returned message: Спокойной ночи, Мир!
+2016-10-08T12:19:38,555 [DEBUG] (Messenger.java:51) - ----getMessage() method end----
+
+2016-10-08T12:19:38,556 [DEBUG] (Messenger.java:28) - ---getMessage() method begin---
+2016-10-08T12:19:38,556 [DEBUG] (Messenger.java:30) - Got current hour: 0
+2016-10-08T12:19:38,556 [DEBUG] (Messenger.java:61) - --defineTimeOfDay() method begin--
+2016-10-08T12:19:38,556 [DEBUG] (Messenger.java:67) - ---defineTimeOfDay() method end---
+2016-10-08T12:19:38,556 [DEBUG] (Messenger.java:32) - Current time of day: night
+2016-10-08T12:19:38,557 [DEBUG] (Messenger.java:34) - Got user's locale: en
+2016-10-08T12:19:38,557 [DEBUG] (Messenger.java:36) - Locale after validation: en
+2016-10-08T12:19:38,557 [DEBUG] (Messenger.java:40) - Connecting to message resource...
+2016-10-08T12:19:38,557 [DEBUG] (Messenger.java:43) - Connection succeeded!
+2016-10-08T12:19:38,557 [DEBUG] (Messenger.java:50) - Returned message: Good night, World!
+2016-10-08T12:19:38,557 [DEBUG] (Messenger.java:51) - ----getMessage() method end----
+
+2016-10-08T12:19:38,558 [DEBUG] (Messenger.java:28) - ---getMessage() method begin---
+2016-10-08T12:19:38,558 [DEBUG] (Messenger.java:30) - Got current hour: 4
+2016-10-08T12:19:38,558 [DEBUG] (Messenger.java:61) - --defineTimeOfDay() method begin--
+2016-10-08T12:19:38,558 [DEBUG] (Messenger.java:67) - ---defineTimeOfDay() method end---
+2016-10-08T12:19:38,559 [DEBUG] (Messenger.java:32) - Current time of day: night
+2016-10-08T12:19:38,559 [DEBUG] (Messenger.java:34) - Got user's locale: en
+2016-10-08T12:19:38,559 [DEBUG] (Messenger.java:36) - Locale after validation: en
+2016-10-08T12:19:38,559 [DEBUG] (Messenger.java:40) - Connecting to message resource...
+2016-10-08T12:19:38,559 [DEBUG] (Messenger.java:43) - Connection succeeded!
+2016-10-08T12:19:38,559 [DEBUG] (Messenger.java:50) - Returned message: Good night, World!
+2016-10-08T12:19:38,559 [DEBUG] (Messenger.java:51) - ----getMessage() method end----
+
+2016-10-08T12:19:38,560 [DEBUG] (Messenger.java:28) - ---getMessage() method begin---
+2016-10-08T12:19:38,560 [DEBUG] (Messenger.java:30) - Got current hour: 6
+2016-10-08T12:19:38,560 [DEBUG] (Messenger.java:61) - --defineTimeOfDay() method begin--
+2016-10-08T12:19:38,560 [DEBUG] (Messenger.java:67) - ---defineTimeOfDay() method end---
+2016-10-08T12:19:38,561 [DEBUG] (Messenger.java:32) - Current time of day: morning
+2016-10-08T12:19:38,561 [DEBUG] (Messenger.java:34) - Got user's locale: en
+2016-10-08T12:19:38,561 [DEBUG] (Messenger.java:36) - Locale after validation: en
+2016-10-08T12:19:38,561 [DEBUG] (Messenger.java:40) - Connecting to message resource...
+2016-10-08T12:19:38,561 [DEBUG] (Messenger.java:43) - Connection succeeded!
+2016-10-08T12:19:38,561 [DEBUG] (Messenger.java:50) - Returned message: Good morning, World!
+2016-10-08T12:19:38,561 [DEBUG] (Messenger.java:51) - ----getMessage() method end----
+
+2016-10-08T12:19:38,562 [DEBUG] (Messenger.java:28) - ---getMessage() method begin---
+2016-10-08T12:19:38,562 [DEBUG] (Messenger.java:30) - Got current hour: 9
+2016-10-08T12:19:38,563 [DEBUG] (Messenger.java:61) - --defineTimeOfDay() method begin--
+2016-10-08T12:19:38,563 [DEBUG] (Messenger.java:67) - ---defineTimeOfDay() method end---
+2016-10-08T12:19:38,563 [DEBUG] (Messenger.java:32) - Current time of day: day
+2016-10-08T12:19:38,563 [DEBUG] (Messenger.java:34) - Got user's locale: en
+2016-10-08T12:19:38,563 [DEBUG] (Messenger.java:36) - Locale after validation: en
+2016-10-08T12:19:38,563 [DEBUG] (Messenger.java:40) - Connecting to message resource...
+2016-10-08T12:19:38,564 [DEBUG] (Messenger.java:43) - Connection succeeded!
+2016-10-08T12:19:38,564 [DEBUG] (Messenger.java:50) - Returned message: Good day, World!
+2016-10-08T12:19:38,564 [DEBUG] (Messenger.java:51) - ----getMessage() method end----
+
+2016-10-08T12:19:38,564 [DEBUG] (Messenger.java:28) - ---getMessage() method begin---
+2016-10-08T12:19:38,564 [DEBUG] (Messenger.java:30) - Got current hour: 8
+2016-10-08T12:19:38,565 [DEBUG] (Messenger.java:61) - --defineTimeOfDay() method begin--
+2016-10-08T12:19:38,565 [DEBUG] (Messenger.java:67) - ---defineTimeOfDay() method end---
+2016-10-08T12:19:38,565 [DEBUG] (Messenger.java:32) - Current time of day: morning
+2016-10-08T12:19:38,565 [DEBUG] (Messenger.java:34) - Got user's locale: fr
+2016-10-08T12:19:38,565 [DEBUG] (Messenger.java:36) - Locale after validation: en
+2016-10-08T12:19:38,565 [DEBUG] (Messenger.java:40) - Connecting to message resource...
+2016-10-08T12:19:38,565 [DEBUG] (Messenger.java:43) - Connection succeeded!
+2016-10-08T12:19:38,566 [DEBUG] (Messenger.java:50) - Returned message: Good morning, World!
+2016-10-08T12:19:38,566 [DEBUG] (Messenger.java:51) - ----getMessage() method end----
+
+2016-10-08T12:19:38,566 [DEBUG] (Messenger.java:28) - ---getMessage() method begin---
+2016-10-08T12:19:38,567 [DEBUG] (Messenger.java:30) - Got current hour: 0
+2016-10-08T12:19:38,567 [DEBUG] (Messenger.java:61) - --defineTimeOfDay() method begin--
+2016-10-08T12:19:38,567 [DEBUG] (Messenger.java:67) - ---defineTimeOfDay() method end---
+2016-10-08T12:19:38,567 [DEBUG] (Messenger.java:32) - Current time of day: night
+2016-10-08T12:19:38,567 [DEBUG] (Messenger.java:34) - Got user's locale: de
+2016-10-08T12:19:38,567 [DEBUG] (Messenger.java:36) - Locale after validation: en
+2016-10-08T12:19:38,567 [DEBUG] (Messenger.java:40) - Connecting to message resource...
+2016-10-08T12:19:38,568 [DEBUG] (Messenger.java:43) - Connection succeeded!
+2016-10-08T12:19:38,568 [DEBUG] (Messenger.java:50) - Returned message: Good night, World!
+2016-10-08T12:19:38,568 [DEBUG] (Messenger.java:51) - ----getMessage() method end----
+
+2016-10-08T12:19:38,569 [DEBUG] (Messenger.java:28) - ---getMessage() method begin---
+2016-10-08T12:19:38,569 [DEBUG] (Messenger.java:30) - Got current hour: 0
+2016-10-08T12:19:38,569 [DEBUG] (Messenger.java:61) - --defineTimeOfDay() method begin--
+2016-10-08T12:19:38,569 [DEBUG] (Messenger.java:67) - ---defineTimeOfDay() method end---
+2016-10-08T12:19:38,569 [DEBUG] (Messenger.java:32) - Current time of day: night
+2016-10-08T12:19:38,569 [DEBUG] (Messenger.java:34) - Got user's locale: de
+2016-10-08T12:19:38,569 [DEBUG] (Messenger.java:36) - Locale after validation: en
+2016-10-08T12:19:38,570 [DEBUG] (Messenger.java:40) - Connecting to message resource...
+2016-10-08T12:19:38,570 [DEBUG] (Messenger.java:43) - Connection succeeded!
+2016-10-08T12:19:38,570 [DEBUG] (Messenger.java:50) - Returned message: Good night, World!
+2016-10-08T12:19:38,570 [DEBUG] (Messenger.java:51) - ----getMessage() method end----
+
+2016-10-08T12:19:38,570 [DEBUG] (Messenger.java:28) - ---getMessage() method begin---
+2016-10-08T12:19:38,570 [DEBUG] (Messenger.java:30) - Got current hour: 0
+2016-10-08T12:19:38,571 [DEBUG] (Messenger.java:61) - --defineTimeOfDay() method begin--
+2016-10-08T12:19:38,571 [DEBUG] (Messenger.java:67) - ---defineTimeOfDay() method end---
+2016-10-08T12:19:38,571 [DEBUG] (Messenger.java:32) - Current time of day: night
+2016-10-08T12:19:38,571 [DEBUG] (Messenger.java:34) - Got user's locale: ru
+2016-10-08T12:19:38,571 [DEBUG] (Messenger.java:36) - Locale after validation: ru
+2016-10-08T12:19:38,571 [DEBUG] (Messenger.java:40) - Connecting to message resource...
+2016-10-08T12:19:38,571 [DEBUG] (Messenger.java:43) - Connection succeeded!
+2016-10-08T12:19:38,571 [DEBUG] (Messenger.java:50) - Returned message: Спокойной ночи, Мир!
+2016-10-08T12:19:38,571 [DEBUG] (Messenger.java:51) - ----getMessage() method end----
+
+2016-10-08T12:19:38,572 [DEBUG] (Messenger.java:28) - ---getMessage() method begin---
+2016-10-08T12:19:38,572 [DEBUG] (Messenger.java:30) - Got current hour: 2
+2016-10-08T12:19:38,572 [DEBUG] (Messenger.java:61) - --defineTimeOfDay() method begin--
+2016-10-08T12:19:38,572 [DEBUG] (Messenger.java:67) - ---defineTimeOfDay() method end---
+2016-10-08T12:19:38,573 [DEBUG] (Messenger.java:32) - Current time of day: night
+2016-10-08T12:19:38,573 [DEBUG] (Messenger.java:34) - Got user's locale: ru
+2016-10-08T12:19:38,573 [DEBUG] (Messenger.java:36) - Locale after validation: ru
+2016-10-08T12:19:38,573 [DEBUG] (Messenger.java:40) - Connecting to message resource...
+2016-10-08T12:19:38,573 [DEBUG] (Messenger.java:43) - Connection succeeded!
+2016-10-08T12:19:38,573 [DEBUG] (Messenger.java:50) - Returned message: Спокойной ночи, Мир!
+2016-10-08T12:19:38,573 [DEBUG] (Messenger.java:51) - ----getMessage() method end----
+
+2016-10-08T12:19:38,575 [DEBUG] (Messenger.java:28) - ---getMessage() method begin---
+2016-10-08T12:19:38,575 [DEBUG] (Messenger.java:30) - Got current hour: 6
+2016-10-08T12:19:38,575 [DEBUG] (Messenger.java:61) - --defineTimeOfDay() method begin--
+2016-10-08T12:19:38,575 [DEBUG] (Messenger.java:67) - ---defineTimeOfDay() method end---
+2016-10-08T12:19:38,576 [DEBUG] (Messenger.java:32) - Current time of day: morning
+2016-10-08T12:19:38,576 [DEBUG] (Messenger.java:34) - Got user's locale: ru
+2016-10-08T12:19:38,576 [DEBUG] (Messenger.java:36) - Locale after validation: ru
+2016-10-08T12:19:38,576 [DEBUG] (Messenger.java:40) - Connecting to message resource...
+2016-10-08T12:19:38,576 [DEBUG] (Messenger.java:43) - Connection succeeded!
+2016-10-08T12:19:38,577 [DEBUG] (Messenger.java:50) - Returned message: Доброе утро, Мир!
+2016-10-08T12:19:38,577 [DEBUG] (Messenger.java:51) - ----getMessage() method end----
+
+2016-10-08T12:19:38,577 [DEBUG] (Messenger.java:28) - ---getMessage() method begin---
+2016-10-08T12:19:38,578 [DEBUG] (Messenger.java:30) - Got current hour: 8
+2016-10-08T12:19:38,578 [DEBUG] (Messenger.java:61) - --defineTimeOfDay() method begin--
+2016-10-08T12:19:38,581 [DEBUG] (Messenger.java:67) - ---defineTimeOfDay() method end---
+2016-10-08T12:19:38,582 [DEBUG] (Messenger.java:32) - Current time of day: morning
+2016-10-08T12:19:38,582 [DEBUG] (Messenger.java:34) - Got user's locale: ru
+2016-10-08T12:19:38,582 [DEBUG] (Messenger.java:36) - Locale after validation: ru
+2016-10-08T12:19:38,582 [DEBUG] (Messenger.java:40) - Connecting to message resource...
+2016-10-08T12:19:38,583 [DEBUG] (Messenger.java:43) - Connection succeeded!
+2016-10-08T12:19:38,583 [DEBUG] (Messenger.java:50) - Returned message: Доброе утро, Мир!
+2016-10-08T12:19:38,583 [DEBUG] (Messenger.java:51) - ----getMessage() method end----
+
+2016-10-08T12:19:38,584 [DEBUG] (Messenger.java:28) - ---getMessage() method begin---
+2016-10-08T12:19:38,584 [DEBUG] (Messenger.java:30) - Got current hour: 9
+2016-10-08T12:19:38,584 [DEBUG] (Messenger.java:61) - --defineTimeOfDay() method begin--
+2016-10-08T12:19:38,584 [DEBUG] (Messenger.java:67) - ---defineTimeOfDay() method end---
+2016-10-08T12:19:38,584 [DEBUG] (Messenger.java:32) - Current time of day: day
+2016-10-08T12:19:38,585 [DEBUG] (Messenger.java:34) - Got user's locale: ru
+2016-10-08T12:19:38,585 [DEBUG] (Messenger.java:36) - Locale after validation: ru
+2016-10-08T12:19:38,585 [DEBUG] (Messenger.java:40) - Connecting to message resource...
+2016-10-08T12:19:38,585 [DEBUG] (Messenger.java:43) - Connection succeeded!
+2016-10-08T12:19:38,585 [DEBUG] (Messenger.java:50) - Returned message: Добрый день, Мир!
+2016-10-08T12:19:38,585 [DEBUG] (Messenger.java:51) - ----getMessage() method end----
+
+2016-10-08T12:19:38,586 [DEBUG] (Messenger.java:28) - ---getMessage() method begin---
+2016-10-08T12:19:38,586 [DEBUG] (Messenger.java:30) - Got current hour: 100
+2016-10-08T12:19:38,587 [DEBUG] (Messenger.java:61) - --defineTimeOfDay() method begin--
+2016-10-08T12:19:38,587 [DEBUG] (Messenger.java:67) - ---defineTimeOfDay() method end---
+2016-10-08T12:19:38,587 [DEBUG] (Messenger.java:32) - Current time of day: night
+2016-10-08T12:19:38,587 [DEBUG] (Messenger.java:34) - Got user's locale: en
+2016-10-08T12:19:38,587 [DEBUG] (Messenger.java:36) - Locale after validation: en
+2016-10-08T12:19:38,587 [DEBUG] (Messenger.java:40) - Connecting to message resource...
+2016-10-08T12:19:38,587 [DEBUG] (Messenger.java:43) - Connection succeeded!
+2016-10-08T12:19:38,587 [DEBUG] (Messenger.java:50) - Returned message: Good night, World!
+2016-10-08T12:19:38,587 [DEBUG] (Messenger.java:51) - ----getMessage() method end----
+
+2016-10-08T12:19:38,588 [DEBUG] (Messenger.java:28) - ---getMessage() method begin---
+2016-10-08T12:19:38,588 [DEBUG] (Messenger.java:30) - Got current hour: -100
+2016-10-08T12:19:38,588 [DEBUG] (Messenger.java:61) - --defineTimeOfDay() method begin--
+2016-10-08T12:19:38,588 [DEBUG] (Messenger.java:67) - ---defineTimeOfDay() method end---
+2016-10-08T12:19:38,588 [DEBUG] (Messenger.java:32) - Current time of day: night
+2016-10-08T12:19:38,588 [DEBUG] (Messenger.java:34) - Got user's locale: en
+2016-10-08T12:19:38,589 [DEBUG] (Messenger.java:36) - Locale after validation: en
+2016-10-08T12:19:38,589 [DEBUG] (Messenger.java:40) - Connecting to message resource...
+2016-10-08T12:19:38,589 [DEBUG] (Messenger.java:43) - Connection succeeded!
+2016-10-08T12:19:38,589 [DEBUG] (Messenger.java:50) - Returned message: Good night, World!
+2016-10-08T12:19:38,589 [DEBUG] (Messenger.java:51) - ----getMessage() method end----
+
+2016-10-08T12:19:38,589 [DEBUG] (Messenger.java:28) - ---getMessage() method begin---
+2016-10-08T12:19:38,590 [DEBUG] (Messenger.java:30) - Got current hour: 9
+2016-10-08T12:19:38,590 [DEBUG] (Messenger.java:61) - --defineTimeOfDay() method begin--
+2016-10-08T12:19:38,590 [DEBUG] (Messenger.java:67) - ---defineTimeOfDay() method end---
+2016-10-08T12:19:38,590 [DEBUG] (Messenger.java:32) - Current time of day: day
+2016-10-08T12:19:38,591 [DEBUG] (Messenger.java:34) - Got user's locale: null
+2016-10-08T12:19:38,591 [DEBUG] (Messenger.java:36) - Locale after validation: en
+2016-10-08T12:19:38,591 [DEBUG] (Messenger.java:40) - Connecting to message resource...
+2016-10-08T12:19:38,591 [DEBUG] (Messenger.java:43) - Connection succeeded!
+2016-10-08T12:19:38,591 [DEBUG] (Messenger.java:50) - Returned message: Good day, World!
+2016-10-08T12:19:38,591 [DEBUG] (Messenger.java:51) - ----getMessage() method end----
+
+2016-10-08T12:19:38,592 [DEBUG] (Messenger.java:28) - ---getMessage() method begin---
+2016-10-08T12:19:38,592 [DEBUG] (Messenger.java:30) - Got current hour: 50
+2016-10-08T12:19:38,593 [DEBUG] (Messenger.java:61) - --defineTimeOfDay() method begin--
+2016-10-08T12:19:38,593 [DEBUG] (Messenger.java:67) - ---defineTimeOfDay() method end---
+2016-10-08T12:19:38,593 [DEBUG] (Messenger.java:32) - Current time of day: night
+2016-10-08T12:19:38,593 [DEBUG] (Messenger.java:34) - Got user's locale: ru
+2016-10-08T12:19:38,593 [DEBUG] (Messenger.java:36) - Locale after validation: ru
+2016-10-08T12:19:38,593 [DEBUG] (Messenger.java:40) - Connecting to message resource...
+2016-10-08T12:19:38,594 [DEBUG] (Messenger.java:43) - Connection succeeded!
+2016-10-08T12:19:38,594 [DEBUG] (Messenger.java:50) - Returned message: Спокойной ночи, Мир!
+2016-10-08T12:19:38,594 [DEBUG] (Messenger.java:51) - ----getMessage() method end----
+
+2016-10-08T12:19:38,595 [DEBUG] (Messenger.java:28) - ---getMessage() method begin---
+2016-10-08T12:19:38,595 [DEBUG] (Messenger.java:30) - Got current hour: -50
+2016-10-08T12:19:38,595 [DEBUG] (Messenger.java:61) - --defineTimeOfDay() method begin--
+2016-10-08T12:19:38,596 [DEBUG] (Messenger.java:67) - ---defineTimeOfDay() method end---
+2016-10-08T12:19:38,596 [DEBUG] (Messenger.java:32) - Current time of day: night
+2016-10-08T12:19:38,596 [DEBUG] (Messenger.java:34) - Got user's locale: ru
+2016-10-08T12:19:38,596 [DEBUG] (Messenger.java:36) - Locale after validation: ru
+2016-10-08T12:19:38,596 [DEBUG] (Messenger.java:40) - Connecting to message resource...
+2016-10-08T12:19:38,596 [DEBUG] (Messenger.java:43) - Connection succeeded!
+2016-10-08T12:19:38,597 [DEBUG] (Messenger.java:50) - Returned message: Спокойной ночи, Мир!
+2016-10-08T12:19:38,597 [DEBUG] (Messenger.java:51) - ----getMessage() method end----
+
+2016-10-08T12:19:38,597 [DEBUG] (Messenger.java:28) - ---getMessage() method begin---
+2016-10-08T12:19:38,597 [DEBUG] (Messenger.java:30) - Got current hour: 19
+2016-10-08T12:19:38,598 [DEBUG] (Messenger.java:61) - --defineTimeOfDay() method begin--
+2016-10-08T12:19:38,598 [DEBUG] (Messenger.java:67) - ---defineTimeOfDay() method end---
+2016-10-08T12:19:38,598 [DEBUG] (Messenger.java:32) - Current time of day: evening
+2016-10-08T12:19:38,598 [DEBUG] (Messenger.java:34) - Got user's locale: null
+2016-10-08T12:19:38,598 [DEBUG] (Messenger.java:36) - Locale after validation: en
+2016-10-08T12:19:38,599 [DEBUG] (Messenger.java:40) - Connecting to message resource...
+2016-10-08T12:19:38,599 [DEBUG] (Messenger.java:43) - Connection succeeded!
+2016-10-08T12:19:38,599 [DEBUG] (Messenger.java:50) - Returned message: Good evening, World!
+2016-10-08T12:19:38,599 [DEBUG] (Messenger.java:51) - ----getMessage() method end----
+
+2016-10-08T12:19:38,600 [DEBUG] (Messenger.java:28) - ---getMessage() method begin---
+2016-10-08T12:19:38,600 [DEBUG] (Messenger.java:30) - Got current hour: 1000
+2016-10-08T12:19:38,600 [DEBUG] (Messenger.java:61) - --defineTimeOfDay() method begin--
+2016-10-08T12:19:38,602 [DEBUG] (Messenger.java:67) - ---defineTimeOfDay() method end---
+2016-10-08T12:19:38,603 [DEBUG] (Messenger.java:32) - Current time of day: night
+2016-10-08T12:19:38,604 [DEBUG] (Messenger.java:34) - Got user's locale: de
+2016-10-08T12:19:38,605 [DEBUG] (Messenger.java:36) - Locale after validation: en
+2016-10-08T12:19:38,605 [DEBUG] (Messenger.java:40) - Connecting to message resource...
+2016-10-08T12:19:38,606 [DEBUG] (Messenger.java:43) - Connection succeeded!
+2016-10-08T12:19:38,606 [DEBUG] (Messenger.java:50) - Returned message: Good night, World!
+2016-10-08T12:19:38,606 [DEBUG] (Messenger.java:51) - ----getMessage() method end----
+
